@@ -1,0 +1,5052 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2014.12.21)  27 JAN 2015 23:42
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**songbook.tex
+(./songbook.tex
+LaTeX2e <2014/05/01>
+Babel <3.9k> and hyphenation patterns for 79 languages loaded.
+(/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2013/05/30 v3.7b configurable book, report, article docu
+ment class
+\onelineskip=\skip41
+\lxvchars=\skip42
+\xlvchars=\skip43
+\@memcnta=\count79
+\c@@memmarkcntra=\count80
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+(/usr/share/texmf-dist/tex/latex/ifetex/ifetex.sty
+Package: ifetex 2011/12/15 v1.2 ifetex
+
+(/usr/share/texmf-dist/tex/plain/ifetex/ifetex.tex))
+(/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+\stockheight=\skip44
+\stockwidth=\skip45
+\trimtop=\skip46
+\trimedge=\skip47
+
+(/usr/share/texmf-dist/tex/latex/base/leqno.clo
+File: leqno.clo 1998/08/17 v1.1c Standard LaTeX option (left equation numbers)
+)
+(/usr/share/texmf-dist/tex/latex/etex-pkg/etex.sty
+Package: etex 1998/03/26 v2.0 eTeX basic definition package (PEB)
+\et@xins=\count81
+)
+(/usr/share/texmf-dist/tex/latex/memoir/mem10.clo
+File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
+)
+\binding=\skip48
+\spinemargin=\skip49
+\foremargin=\skip50
+\uppermargin=\skip51
+\lowermargin=\skip52
+\headdrop=\skip53
+\normalrulethickness=\skip54
+\mem@maxheadheight=\skip55
+\mem@maxfootheight=\skip56
+\headwidth=\skip57
+\c@storedpagenumber=\count82
+\memPD=\dimen102
+\m@mabparskip=\skip58
+\thanksmarkwidth=\skip59
+\thanksmarksep=\skip60
+\droptitle=\skip61
+\c@book=\count83
+\c@part=\count84
+\c@chapter=\count85
+\c@section=\count86
+\c@subsection=\count87
+\c@subsubsection=\count88
+\c@paragraph=\count89
+\c@subparagraph=\count90
+\beforechapskip=\skip62
+\midchapskip=\skip63
+\afterchapskip=\skip64
+\chapindent=\skip65
+\bottomsectionskip=\skip66
+\secindent=\skip67
+\beforesecskip=\skip68
+\aftersecskip=\skip69
+\subsecindent=\skip70
+\beforesubsecskip=\skip71
+\aftersubsecskip=\skip72
+\subsubsecindent=\skip73
+\beforesubsubsecskip=\skip74
+\aftersubsubsecskip=\skip75
+\paraindent=\skip76
+\beforeparaskip=\skip77
+\afterparaskip=\skip78
+\subparaindent=\skip79
+\beforesubparaskip=\skip80
+\aftersubparaskip=\skip81
+\pfbreakskip=\skip82
+\c@@ppsavesec=\count91
+\c@@ppsaveapp=\count92
+\ragrparindent=\dimen103
+\everylistparindent=\dimen104
+\parsepi=\skip83
+\topsepi=\skip84
+\itemsepi=\skip85
+\parsepii=\skip86
+\topsepii=\skip87
+\topsepiii=\skip88
+\itemsepii=\skip89
+\itemsepiii=\skip90
+\partopsepii=\skip91
+\partopsepiii=\skip92
+\m@msavetopsep=\skip93
+\m@msavepartopsep=\skip94
+\@enLab=\toks14
+\abstitleskip=\skip95
+\absleftindent=\skip96
+\abs@leftindent=\dimen105
+\absrightindent=\skip97
+\absparindent=\skip98
+\absparsep=\skip99
+\c@vslineno=\count93
+\c@poemline=\count94
+\c@modulo@vs=\count95
+\c@memfvsline=\count96
+\vleftskip=\skip100
+\vrightskip=\skip101
+\stanzaskip=\skip102
+\versewidth=\skip103
+\vgap=\skip104
+\vindent=\skip105
+\vleftmargin=\dimen106
+\c@verse=\count97
+\c@chrsinstr=\count98
+\beforepoemtitleskip=\skip106
+\afterpoemtitleskip=\skip107
+\c@poem=\count99
+\beforePoemTitleskip=\skip108
+\midPoemTitleskip=\skip109
+\afterPoemTitleskip=\skip110
+\col@sep=\dimen107
+\extrarowheight=\dimen108
+\NC@list=\toks15
+\extratabsurround=\skip111
+\backup@length=\skip112
+\TX@col@width=\dimen109
+\TX@old@table=\dimen110
+\TX@old@col=\dimen111
+\TX@target=\dimen112
+\TX@delta=\dimen113
+\TX@cols=\count100
+\TX@ftn=\toks16
+\heavyrulewidth=\dimen114
+\lightrulewidth=\dimen115
+\cmidrulewidth=\dimen116
+\belowrulesep=\dimen117
+\belowbottomsep=\dimen118
+\aboverulesep=\dimen119
+\abovetopsep=\dimen120
+\cmidrulesep=\dimen121
+\cmidrulekern=\dimen122
+\defaultaddspace=\dimen123
+\@cmidla=\count101
+\@cmidlb=\count102
+\@aboverulesep=\dimen124
+\@belowrulesep=\dimen125
+\@thisruleclass=\count103
+\@lastruleclass=\count104
+\@thisrulewidth=\dimen126
+\ctableftskip=\skip113
+\ctabrightskip=\skip114
+\abovecolumnspenalty=\count105
+\@linestogo=\count106
+\@cellstogo=\count107
+\@cellsincolumn=\count108
+\crtok=\toks17
+\@mincolumnwidth=\dimen127
+\c@newflo@tctr=\count109
+\mem@margin@floatbox=\box26
+\@contcwidth=\skip115
+\@contindw=\skip116
+\abovecaptionskip=\skip117
+\belowcaptionskip=\skip118
+\subfloattopskip=\skip119
+\subfloatcapskip=\skip120
+\subfloatcaptopadj=\skip121
+\subfloatbottomskip=\skip122
+\subfloatlabelskip=\skip123
+\subfloatcapmargin=\dimen128
+\c@@contsubnum=\count110
+\m@mscap@capbox=\box27
+\m@mscap@fbox=\box28
+\sidecapsep=\dimen129
+\sidecapwidth=\dimen130
+\m@m@tempdima=\dimen131
+\m@mscapraise=\dimen132
+\sidecapraise=\dimen133
+\m@mscapmainwidth=\dimen134
+\m@mscaplkern=\dimen135
+\beforeepigraphskip=\skip124
+\afterepigraphskip=\skip125
+\epigraphwidth=\skip126
+\epigraphrule=\skip127
+LaTeX Info: Redefining \em on input line 7492.
+LaTeX Info: Redefining \emph on input line 7500.
+\tocentryskip=\skip128
+\tocbaseline=\skip129
+\cftparskip=\skip130
+\cftbeforebookskip=\skip131
+\cftbookindent=\dimen136
+\cftbooknumwidth=\dimen137
+\cftbeforepartskip=\skip132
+\cftpartindent=\skip133
+\cftpartnumwidth=\skip134
+\cftbeforechapterskip=\skip135
+\cftchapterindent=\skip136
+\cftchapternumwidth=\skip137
+\cftbeforesectionskip=\skip138
+\cftsectionindent=\skip139
+\cftsectionnumwidth=\skip140
+\cftbeforesubsectionskip=\skip141
+\cftsubsectionindent=\skip142
+\cftsubsectionnumwidth=\skip143
+\cftbeforesubsubsectionskip=\skip144
+\cftsubsubsectionindent=\skip145
+\cftsubsubsectionnumwidth=\skip146
+\cftbeforeparagraphskip=\skip147
+\cftparagraphindent=\skip148
+\cftparagraphnumwidth=\skip149
+\cftbeforesubparagraphskip=\skip150
+\cftsubparagraphindent=\skip151
+\cftsubparagraphnumwidth=\skip152
+\prechapterprecisshift=\dimen138
+\c@maxsecnumdepth=\count111
+\bibindent=\dimen139
+\bibitemsep=\skip153
+\indexcolsep=\skip154
+\indexrule=\skip155
+\indexmarkstyle=\toks18
+\@indexbox=\insert233
+\glossarycolsep=\dimen140
+\glossaryrule=\dimen141
+\sideparvshift=\skip156
+\sideins=\insert232
+\sidebartopsep=\skip157
+\sidebarhsep=\skip158
+\sidebarvsep=\skip159
+\sidebarwidth=\skip160
+\footmarkwidth=\skip161
+\footmarksep=\skip162
+\footparindent=\skip163
+\footinsdim=\skip164
+\footinsv@r=\insert231
+\@mpfootinsv@r=\insert230
+\m@m@k=\count112
+\m@m@h=\dimen142
+\m@mipn@skip=\skip165
+\sidefootins=\insert229
+\sidefootadjust=\skip166
+\sidefootheight=\skip167
+\sidefoothsep=\skip168
+\sidefootvsep=\skip169
+\sidefootwidth=\skip170
+\m@mdownsf=\skip171
+\c@sidefootnote=\count113
+\sidefootmarkwidth=\skip172
+\sidefootmarksep=\skip173
+\sidefootparindent=\skip174
+\c@pagenote=\count114
+\c@pagenoteshadow=\count115
+\mem@pn@lastkern=\skip175
+\every@verbatim=\toks19
+\afterevery@verbatim=\toks20
+\verbatim@line=\toks21
+\tab@position=\count116
+\verbatim@in@stream=\read1
+\verbatimindent=\skip176
+\verbatim@out=\write3
+\bvboxsep=\skip177
+\c@memfbvline=\count117
+\c@bvlinectr=\count118
+\bvnumlength=\skip178
+\fb@frw=\dimen143
+\fb@frh=\dimen144
+\FrameRule=\dimen145
+\FrameSep=\dimen146
+\c@cp@cntr=\count119
+LaTeX Info: Redefining \: on input line 11958.
+LaTeX Info: Redefining \! on input line 11960.
+\c@ism@mctr=\count120
+\c@xsm@mctr=\count121
+\c@csm@mctr=\count122
+\c@ksm@mctr=\count123
+\c@xksm@mctr=\count124
+\c@cksm@mctr=\count125
+\c@msm@mctr=\count126
+\c@xmsm@mctr=\count127
+\c@cmsm@mctr=\count128
+\c@bsm@mctr=\count129
+\c@workm@mctr=\count130
+\c@sheetsequence=\count131
+\c@lastsheet=\count132
+\c@lastpage=\count133
+\c@figure=\count134
+\c@lofdepth=\count135
+\cftbeforefigureskip=\skip179
+\cftfigureindent=\skip180
+\cftfigurenumwidth=\skip181
+\c@table=\count136
+\c@lotdepth=\count137
+\cftbeforetableskip=\skip182
+\cfttableindent=\skip183
+\cfttablenumwidth=\skip184
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package array [2008/09/09] emulated by memoir.
+Package booktabs [2008/07/23] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package dcolumn [2008/07/23] emulated by memoir.
+Package delarray [2008/07/23] emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package tabularx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+
+(/usr/share/texmf-dist/tex/latex/memoir/mempatch.sty
+Package: mempatch 2009/07/24 v6.0f Patches for memoir class v1.6180339
+))
+(/usr/share/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/04/25 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/05/08 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(/usr/share/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
+File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+(/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count138
+))
+\Gin@req@height=\dimen147
+\Gin@req@width=\dimen148
+)
+(/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+
+(/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2007/08/22 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count139
+\calc@Bcount=\count140
+\calc@Adimen=\dimen149
+\calc@Bdimen=\dimen150
+\calc@Askip=\skip185
+\calc@Bskip=\skip186
+LaTeX Info: Redefining \setlength on input line 75.
+LaTeX Info: Redefining \addtolength on input line 76.
+\calc@Ccount=\count141
+\calc@Cskip=\skip187
+)
+(/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+)
+(/usr/share/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/color.cfg
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1341.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+(/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box29
+\AM@toc@title=\toks23
+\c@AM@survey=\count142
+\AM@templatesizebox=\box30
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
+Package: zref-abspage 2012/04/04 v2.24 Module abspage for zref (HO)
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/zref-base.sty
+Package: zref-base 2012/04/04 v2.24 Module base for zref (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+
+(/usr/share/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+(/usr/share/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+)
+(/usr/share/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 759.
+Package zref Info: New property: default on input line 760.
+Package zref Info: New property: page on input line 761.
+)
+\c@abspage=\count143
+Package zref Info: New property: abspage on input line 62.
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/atveryend.sty
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\c@abschap=\count144
+
+No file songbook.aux.
+\openout1 = `songbook.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 64.
+LaTeX Font Info:    ... okay on input line 64.
+(/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count145
+\scratchdimen=\dimen151
+\scratchbox=\box31
+\nofMPsegments=\count146
+\nofMParguments=\count147
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count148
+\MPscratchDim=\dimen152
+\MPnumerator=\count149
+\makeMPintoPDFobject=\count150
+\everyMPtoPDFconversion=\toks25
+) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2010/08/19 v1.1 Manage graphics extensions (HO)
+)
+(/usr/share/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 452.
+
+(/usr/share/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box32
+
+No file songbook.toc.
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+LaTeX Warning: Reference `abschap.1.beg' on page ii undefined on input line 74.
+
+
+
+LaTeX Warning: Reference `abschap.1.end' on page ii undefined on input line 74.
+
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 85--85
+[]        \OT1/cmtt/m/n/10 To find the hand of Franklin reaching for the Beaufo
+rt Sea[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 101--101
+[]\OT1/cmtt/m/n/10 And through the night behind the wheel, the mileage clicking
+ west[] 
+ []
+
+[1
+
+
+]
+
+LaTeX Warning: Reference `abschap.2.beg' on page 2 undefined on input line 113.
+
+
+
+LaTeX Warning: Reference `abschap.2.end' on page 2 undefined on input line 113.
+
+
+[2
+
+
+] [3]
+
+LaTeX Warning: Reference `abschap.3.beg' on page 4 undefined on input line 168.
+
+
+
+LaTeX Warning: Reference `abschap.3.end' on page 4 undefined on input line 168.
+
+
+[4
+
+
+] [5]
+
+LaTeX Warning: Reference `abschap.4.beg' on page 6 undefined on input line 260.
+
+
+
+LaTeX Warning: Reference `abschap.4.end' on page 6 undefined on input line 260.
+
+
+[6
+
+
+] [7] [8]
+
+LaTeX Warning: Reference `abschap.5.beg' on page 9 undefined on input line 365.
+
+
+
+LaTeX Warning: Reference `abschap.5.end' on page 9 undefined on input line 365.
+
+
+[9
+
+
+] [10] [11]
+
+LaTeX Warning: Reference `abschap.6.beg' on page 12 undefined on input line 447
+.
+
+
+LaTeX Warning: Reference `abschap.6.end' on page 12 undefined on input line 447
+.
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 459--459
+[]\OT1/cmtt/m/n/10 But my thoughts stumbled in my mind, and my words lost their
+ meanin'[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 464--464
+[]\OT1/cmtt/m/n/10 I've got roots that need a-plantin' and a love that needs a-
+growin',[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 468--468
+[]\OT1/cmtt/m/n/10 And as for you, your tears will heal all the wounds that hav
+e been opened,[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 469--469
+[]\OT1/cmtt/m/n/10 Just as time will clear the fields of all the flowers that h
+ave ripened,[] 
+ []
+
+[12
+
+
+]
+
+LaTeX Warning: Reference `abschap.7.beg' on page 13 undefined on input line 476
+.
+
+
+LaTeX Warning: Reference `abschap.7.end' on page 13 undefined on input line 476
+.
+
+[13
+
+
+] [14] [15]
+
+LaTeX Warning: Reference `abschap.8.beg' on page 16 undefined on input line 571
+.
+
+
+LaTeX Warning: Reference `abschap.8.end' on page 16 undefined on input line 571
+.
+
+[16
+
+
+] [17]
+
+LaTeX Warning: Reference `abschap.9.beg' on page 18 undefined on input line 645
+.
+
+
+LaTeX Warning: Reference `abschap.9.end' on page 18 undefined on input line 645
+.
+
+[18
+
+
+] [19]
+
+LaTeX Warning: Reference `abschap.10.beg' on page 20 undefined on input line 73
+0.
+
+
+LaTeX Warning: Reference `abschap.10.end' on page 20 undefined on input line 73
+0.
+
+[20
+
+
+]
+
+LaTeX Warning: Reference `abschap.11.beg' on page 21 undefined on input line 77
+3.
+
+
+LaTeX Warning: Reference `abschap.11.end' on page 21 undefined on input line 77
+3.
+
+[21
+
+
+] [22] [23]
+
+LaTeX Warning: Reference `abschap.12.beg' on page 24 undefined on input line 86
+4.
+
+
+LaTeX Warning: Reference `abschap.12.end' on page 24 undefined on input line 86
+4.
+
+[24
+
+
+] [25] [26]
+
+LaTeX Warning: Reference `abschap.13.beg' on page 27 undefined on input line 10
+03.
+
+
+LaTeX Warning: Reference `abschap.13.end' on page 27 undefined on input line 10
+03.
+
+[27
+
+
+] [28]
+
+LaTeX Warning: Reference `abschap.14.beg' on page 29 undefined on input line 10
+51.
+
+
+LaTeX Warning: Reference `abschap.14.end' on page 29 undefined on input line 10
+51.
+
+[29
+
+
+] [30] [31] [32]
+
+LaTeX Warning: Reference `abschap.15.beg' on page 33 undefined on input line 11
+70.
+
+
+LaTeX Warning: Reference `abschap.15.end' on page 33 undefined on input line 11
+70.
+
+[33
+
+
+] [34]
+
+LaTeX Warning: Reference `abschap.16.beg' on page 35 undefined on input line 12
+04.
+
+
+LaTeX Warning: Reference `abschap.16.end' on page 35 undefined on input line 12
+04.
+
+[35
+
+
+] [36] [37]
+
+LaTeX Warning: Reference `abschap.17.beg' on page 38 undefined on input line 12
+84.
+
+
+LaTeX Warning: Reference `abschap.17.end' on page 38 undefined on input line 12
+84.
+
+[38
+
+
+] [39] [40] [41]
+
+LaTeX Warning: Reference `abschap.18.beg' on page 42 undefined on input line 14
+46.
+
+
+LaTeX Warning: Reference `abschap.18.end' on page 42 undefined on input line 14
+46.
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 1461--1461
+[]\OT1/cmtt/m/n/10 I'm gonna burn up the road and be on our way we'll reach the
+ sea by[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 1465--1465
+[]\OT1/cmtt/m/n/10 I can get on the road see leaves that are green if I don't w
+ait 'til fall[] 
+ []
+
+
+Overfull \hbox (68.49643pt too wide) in paragraph at lines 1466--1466
+[]\OT1/cmtt/m/n/10 I can be at the end with my two feet in the sand sun setting
+ with kisses on my[] 
+ []
+
+[42
+
+
+]
+
+LaTeX Warning: Reference `abschap.19.beg' on page 43 undefined on input line 14
+74.
+
+
+LaTeX Warning: Reference `abschap.19.end' on page 43 undefined on input line 14
+74.
+
+[43
+
+
+] [44] [45]
+
+LaTeX Warning: Reference `abschap.20.beg' on page 46 undefined on input line 15
+55.
+
+
+LaTeX Warning: Reference `abschap.20.end' on page 46 undefined on input line 15
+55.
+
+[46
+
+
+] [47] [48]
+
+LaTeX Warning: Reference `abschap.21.beg' on page 49 undefined on input line 16
+98.
+
+
+LaTeX Warning: Reference `abschap.21.end' on page 49 undefined on input line 16
+98.
+
+[49
+
+
+] [50] [51]
+
+LaTeX Warning: Reference `abschap.22.beg' on page 52 undefined on input line 17
+80.
+
+
+LaTeX Warning: Reference `abschap.22.end' on page 52 undefined on input line 17
+80.
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 1785--1785
+[]\OT1/cmtt/m/n/10 E --------------------------------------------------------0-
+----|[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 1786--1786
+[]\OT1/cmtt/m/n/10 B ----0-1h--0--------0-----1---3h---1--0---0-----1---3h-----
+-1--|[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 1787--1787
+[]\OT1/cmtt/m/n/10 G --0-----------0-------------------------------------------
+----|[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 1788--1788
+[]\OT1/cmtt/m/n/10 D ---0---0--------------------------------------------------
+----|[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 1789--1789
+[]\OT1/cmtt/m/n/10 A -----------continue bass line --                        --
+-3--|[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 1790--1790
+[]\OT1/cmtt/m/n/10 E -3---3--------------------------                        --
+----|[] 
+ []
+
+[52
+
+
+]
+
+LaTeX Warning: Reference `abschap.23.beg' on page 53 undefined on input line 18
+29.
+
+
+LaTeX Warning: Reference `abschap.23.end' on page 53 undefined on input line 18
+29.
+
+[53
+
+
+] [54] [55]
+
+LaTeX Warning: Reference `abschap.24.beg' on page 56 undefined on input line 18
+90.
+
+
+LaTeX Warning: Reference `abschap.24.end' on page 56 undefined on input line 18
+90.
+
+[56
+
+
+] [57] [58] [59]
+
+LaTeX Warning: Reference `abschap.25.beg' on page 60 undefined on input line 20
+48.
+
+
+LaTeX Warning: Reference `abschap.25.end' on page 60 undefined on input line 20
+48.
+
+[60
+
+
+] [61]
+
+LaTeX Warning: Reference `abschap.26.beg' on page 62 undefined on input line 21
+16.
+
+
+LaTeX Warning: Reference `abschap.26.end' on page 62 undefined on input line 21
+16.
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 2148--2148
+[]\OT1/cmtt/m/n/10 I held my tongue, as she told me "Son, fear is the heart of 
+love"[] 
+ []
+
+[62
+
+
+] [63]
+
+LaTeX Warning: Reference `abschap.27.beg' on page 64 undefined on input line 21
+92.
+
+
+LaTeX Warning: Reference `abschap.27.end' on page 64 undefined on input line 21
+92.
+
+[64
+
+
+] [65]
+
+LaTeX Warning: Reference `abschap.28.beg' on page 66 undefined on input line 22
+57.
+
+
+LaTeX Warning: Reference `abschap.28.end' on page 66 undefined on input line 22
+57.
+
+[66
+
+
+] [67]
+
+LaTeX Warning: Reference `abschap.29.beg' on page 68 undefined on input line 23
+48.
+
+
+LaTeX Warning: Reference `abschap.29.end' on page 68 undefined on input line 23
+48.
+
+[68
+
+
+] [69]
+
+LaTeX Warning: Reference `abschap.30.beg' on page 70 undefined on input line 24
+07.
+
+
+LaTeX Warning: Reference `abschap.30.end' on page 70 undefined on input line 24
+07.
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 2423--2423
+[]    \OT1/cmtt/m/n/10 Im a thousand miles away, But girl tonight you look so p
+retty,[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 2431--2431
+[]    \OT1/cmtt/m/n/10 Im right there if you get lonely, Give this song another
+ listen,[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+[70
+
+
+]
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 2451--2451
+[]    \OT1/cmtt/m/n/10 But just believe me girl some day, I'll pay the bills wi
+th this guitar,[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 2459--2459
+[]    \OT1/cmtt/m/n/10 If every simple song I wrote to you, Would take your bre
+ath away,[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+
+Overfull \hbox (84.24629pt too wide) in paragraph at lines 2473--2473
+[]    \OT1/cmtt/m/n/10 A thousand miles seems pretty far, But theyve got planes
+ and trains and cars,[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 2478--2478
+[]    \OT1/cmtt/m/n/10 Our friends would all make fun of us, And we'll just lau
+gh along because,[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 2482--2482
+[]    \OT1/cmtt/m/n/10 Delilah I can promise you, That by the time that we get 
+through,[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+[71]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 2492--2492
+[]    \OT1/cmtt/m/n/10 Two more years and youll be done with school, And I'll b
+e making history,[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+[72]
+
+LaTeX Warning: Reference `abschap.31.beg' on page 73 undefined on input line 25
+14.
+
+
+LaTeX Warning: Reference `abschap.31.end' on page 73 undefined on input line 25
+14.
+
+[73
+
+
+] [74] [75]
+
+LaTeX Warning: Reference `abschap.32.beg' on page 76 undefined on input line 25
+96.
+
+
+LaTeX Warning: Reference `abschap.32.end' on page 76 undefined on input line 25
+96.
+
+
+Overfull \hbox (78.99634pt too wide) in paragraph at lines 2617--2617
+[]     \OT1/cmtt/m/n/10 G                 Em  C        D             G   Gsus4(
+add9) G  Gsus4(add9)[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 2623--2623
+[]        \OT1/cmtt/m/n/10 G                         Em       C                
+       G[] 
+ []
+
+
+Overfull \hbox (26.4968pt too wide) in paragraph at lines 2624--2624
+[]\OT1/cmtt/m/n/10 I've walked these mountains in the rain, I've learned to lov
+e the wind[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 2638--2638
+[]  \OT1/cmtt/m/n/10 G                Em    C        D          G   Gsus4(add9)
+ G  Gsus4(add9)[] 
+ []
+
+[76
+
+
+]
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 2648--2648
+[]\OT1/cmtt/m/n/10 Love can't give you everything, but it will give you what yo
+u need[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 2660--2660
+[]   \OT1/cmtt/m/n/10 G                Em  C       D          G    Gsus4(add9) 
+G  Gsus4(add9)[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 2669--2669
+[]  \OT1/cmtt/m/n/10 G                Em   C       D           G   Gsus4(add9) 
+G  Gsus4(add9)[] 
+ []
+
+[77]
+
+LaTeX Warning: Reference `abschap.33.beg' on page 78 undefined on input line 26
+75.
+
+
+LaTeX Warning: Reference `abschap.33.end' on page 78 undefined on input line 26
+75.
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 2685--2685
+[]\OT1/cmtt/m/n/10 Beautiful Dawn Chords by The Wailin Jennys, www.Ultimate-Gui
+tar.Com[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+[78
+
+
+]
+
+LaTeX Warning: Reference `abschap.34.beg' on page 79 undefined on input line 27
+28.
+
+
+LaTeX Warning: Reference `abschap.34.end' on page 79 undefined on input line 27
+28.
+
+[79
+
+
+]
+Overfull \hbox (26.4968pt too wide) in paragraph at lines 2739--2739
+[]\OT1/cmtt/m/n/10 My head grew heavy and my sight grew dim; I had to stop for 
+the night.[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 2744--2744
+[]\OT1/cmtt/m/n/10 And I was thinking to myself, "This could be Heaven or this 
+could be Hell"[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 2748--2748
+[]\OT1/cmtt/m/n/10 There were voices down the corridor I thought I heard them s
+ay...[] 
+ []
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 2753--2753
+[]       \OT1/cmtt/m/n/10 F#7                                      Bm        F#
+7(on C#)Bm(on D)[] 
+ []
+
+[80]
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 2775--2775
+[]\OT1/cmtt/m/n/10 He said, "We haven't had that spirit here since nineteen six
+ty nine"[] 
+ []
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 2784--2784
+[]       \OT1/cmtt/m/n/10 F#7                                      Bm        F#
+7(on C#)Bm(on D)[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 2799--2799
+[]\OT1/cmtt/m/n/10 They stab it with their steely knives, but they just can't k
+ill the beast[] 
+ []
+
+[81]
+
+LaTeX Warning: Reference `abschap.35.beg' on page 82 undefined on input line 28
+13.
+
+
+LaTeX Warning: Reference `abschap.35.end' on page 82 undefined on input line 28
+13.
+
+[82
+
+
+] [83] [84]
+
+LaTeX Warning: Reference `abschap.36.beg' on page 85 undefined on input line 29
+24.
+
+
+LaTeX Warning: Reference `abschap.36.end' on page 85 undefined on input line 29
+24.
+
+[85
+
+
+]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [86]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [87]
+
+LaTeX Warning: Reference `abschap.37.beg' on page 88 undefined on input line 30
+07.
+
+
+LaTeX Warning: Reference `abschap.37.end' on page 88 undefined on input line 30
+07.
+
+[88
+
+
+] [89]
+
+LaTeX Warning: Reference `abschap.38.beg' on page 90 undefined on input line 30
+72.
+
+
+LaTeX Warning: Reference `abschap.38.end' on page 90 undefined on input line 30
+72.
+
+[90
+
+
+] [91] [92]
+
+LaTeX Warning: Reference `abschap.39.beg' on page 93 undefined on input line 31
+79.
+
+
+LaTeX Warning: Reference `abschap.39.end' on page 93 undefined on input line 31
+79.
+
+[93
+
+
+] [94] [95]
+
+LaTeX Warning: Reference `abschap.40.beg' on page 96 undefined on input line 32
+43.
+
+
+LaTeX Warning: Reference `abschap.40.end' on page 96 undefined on input line 32
+43.
+
+[96
+
+
+] [97]
+
+LaTeX Warning: Reference `abschap.41.beg' on page 98 undefined on input line 33
+03.
+
+
+LaTeX Warning: Reference `abschap.41.end' on page 98 undefined on input line 33
+03.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 3304--3307
+
+ []
+
+[98
+
+
+] [99]
+
+LaTeX Warning: Reference `abschap.42.beg' on page 100 undefined on input line 3
+386.
+
+
+LaTeX Warning: Reference `abschap.42.end' on page 100 undefined on input line 3
+386.
+
+Missing character: There is no √ in font cmtt10!
+Missing character: There is no ≥ in font cmtt10!
+Missing character: There is no √ in font cmtt10!
+Missing character: There is no ≥ in font cmtt10!
+Missing character: There is no √ in font cmtt10!
+Missing character: There is no ≥ in font cmtt10!
+Missing character: There is no √ in font cmtt10!
+Missing character: There is no ≥ in font cmtt10!
+[100
+
+
+]
+
+LaTeX Warning: Reference `abschap.43.beg' on page 101 undefined on input line 3
+434.
+
+
+LaTeX Warning: Reference `abschap.43.end' on page 101 undefined on input line 3
+434.
+
+[101
+
+
+] [102]
+
+LaTeX Warning: Reference `abschap.44.beg' on page 103 undefined on input line 3
+478.
+
+
+LaTeX Warning: Reference `abschap.44.end' on page 103 undefined on input line 3
+478.
+
+[103
+
+
+] [104]
+
+LaTeX Warning: Reference `abschap.45.beg' on page 105 undefined on input line 3
+526.
+
+
+LaTeX Warning: Reference `abschap.45.end' on page 105 undefined on input line 3
+526.
+
+[105
+
+
+] [106]
+
+LaTeX Warning: Reference `abschap.46.beg' on page 107 undefined on input line 3
+562.
+
+
+LaTeX Warning: Reference `abschap.46.end' on page 107 undefined on input line 3
+562.
+
+[107
+
+
+] [108]
+
+LaTeX Warning: Reference `abschap.47.beg' on page 109 undefined on input line 3
+611.
+
+
+LaTeX Warning: Reference `abschap.47.end' on page 109 undefined on input line 3
+611.
+
+[109
+
+
+]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [110]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [111]
+
+LaTeX Warning: Reference `abschap.48.beg' on page 112 undefined on input line 3
+682.
+
+
+LaTeX Warning: Reference `abschap.48.end' on page 112 undefined on input line 3
+682.
+
+[112
+
+
+] [113] [114] [115]
+
+LaTeX Warning: Reference `abschap.49.beg' on page 116 undefined on input line 3
+843.
+
+
+LaTeX Warning: Reference `abschap.49.end' on page 116 undefined on input line 3
+843.
+
+[116
+
+
+]
+
+LaTeX Warning: Reference `abschap.50.beg' on page 117 undefined on input line 3
+889.
+
+
+LaTeX Warning: Reference `abschap.50.end' on page 117 undefined on input line 3
+889.
+
+[117
+
+
+] [118] [119]
+
+LaTeX Warning: Reference `abschap.51.beg' on page 120 undefined on input line 3
+954.
+
+
+LaTeX Warning: Reference `abschap.51.end' on page 120 undefined on input line 3
+954.
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 3956--3956
+[]\OT1/cmtt/m/n/10 Note:  The record is in C#m.  Capo the 4th fret and use thes
+e chords to play[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 3959--3959
+[]\OT1/cmtt/m/n/10 Am          C     G        Am       G                 Em    
+            Am[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 3960--3960
+[]\OT1/cmtt/m/n/10 Jolene, Jolene, Jolene, Jolene  I'm begging of you please do
+n't take my man[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 3961--3961
+[]\OT1/cmtt/m/n/10 Am      C        G          Am   G                    Em    
+           Am[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 3962--3962
+[]\OT1/cmtt/m/n/10 Jolene, Jolene, Jolene. Jolene  Please don't take him just b
+ecause you can[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 3963--3963
+[]                                              \OT1/cmtt/m/n/10 (Please don't 
+take him even[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 3967--3967
+[]\OT1/cmtt/m/n/10 1. Your beauty is beyond compare with flaming locks of aubur
+n hair[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 3970--3970
+[]      \OT1/cmtt/m/n/10 Am                 C                     G            
+       Am[] 
+ []
+
+
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 3971--3971
+[]    \OT1/cmtt/m/n/10 Your smile is like a breath of spring your voice is soft
+ like summer rain[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 3975--3975
+[]    \OT1/cmtt/m/n/10 He talks about you in his sleep and there's nothing I ca
+n do to keep[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 3981--3981
+[]   \OT1/cmtt/m/n/10 But you don't know what he means to me Jolene           g
+o to chorus,[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 3989--3989
+[]     \OT1/cmtt/m/n/10 I had to have this talk with you  My happiness depends 
+on you[] 
+ []
+
+[120
+
+
+]
+
+LaTeX Warning: Reference `abschap.52.beg' on page 121 undefined on input line 3
+999.
+
+
+LaTeX Warning: Reference `abschap.52.end' on page 121 undefined on input line 3
+999.
+
+[121
+
+
+] [122]
+
+LaTeX Warning: Reference `abschap.53.beg' on page 123 undefined on input line 4
+046.
+
+
+LaTeX Warning: Reference `abschap.53.end' on page 123 undefined on input line 4
+046.
+
+[123
+
+
+] [124]
+
+LaTeX Warning: Reference `abschap.54.beg' on page 125 undefined on input line 4
+082.
+
+
+LaTeX Warning: Reference `abschap.54.end' on page 125 undefined on input line 4
+082.
+
+[125
+
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 4083--4084
+
+ []
+
+[126]
+
+LaTeX Warning: Reference `abschap.55.beg' on page 127 undefined on input line 4
+128.
+
+
+LaTeX Warning: Reference `abschap.55.end' on page 127 undefined on input line 4
+128.
+
+[127
+
+
+] [128] [129]
+
+LaTeX Warning: Reference `abschap.56.beg' on page 130 undefined on input line 4
+181.
+
+
+LaTeX Warning: Reference `abschap.56.end' on page 130 undefined on input line 4
+181.
+
+[130
+
+
+] [131] [132]
+
+LaTeX Warning: Reference `abschap.57.beg' on page 133 undefined on input line 4
+285.
+
+
+LaTeX Warning: Reference `abschap.57.end' on page 133 undefined on input line 4
+285.
+
+[133
+
+
+] [134] [135]
+
+LaTeX Warning: Reference `abschap.58.beg' on page 136 undefined on input line 4
+343.
+
+
+LaTeX Warning: Reference `abschap.58.end' on page 136 undefined on input line 4
+343.
+
+[136
+
+
+] [137]
+
+LaTeX Warning: Reference `abschap.59.beg' on page 138 undefined on input line 4
+430.
+
+
+LaTeX Warning: Reference `abschap.59.end' on page 138 undefined on input line 4
+430.
+
+[138
+
+
+] [139]
+
+LaTeX Warning: Reference `abschap.60.beg' on page 140 undefined on input line 4
+492.
+
+
+LaTeX Warning: Reference `abschap.60.end' on page 140 undefined on input line 4
+492.
+
+[140
+
+
+]
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 4557--4557
+[]\OT1/cmtt/m/n/10 Ah, it took me years to write it, they were the best years o
+f my life[] 
+ []
+
+[141] [142]
+
+LaTeX Warning: Reference `abschap.61.beg' on page 143 undefined on input line 4
+595.
+
+
+LaTeX Warning: Reference `abschap.61.end' on page 143 undefined on input line 4
+595.
+
+[143
+
+
+] [144] [145]
+
+LaTeX Warning: Reference `abschap.62.beg' on page 146 undefined on input line 4
+657.
+
+
+LaTeX Warning: Reference `abschap.62.end' on page 146 undefined on input line 4
+657.
+
+[146
+
+
+] [147]
+
+LaTeX Warning: Reference `abschap.63.beg' on page 148 undefined on input line 4
+741.
+
+
+LaTeX Warning: Reference `abschap.63.end' on page 148 undefined on input line 4
+741.
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 4746--4746
+[]             \OT1/cmtt/m/n/10 D                                          C   
+  G        D[] 
+ []
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 4747--4747
+[]\OT1/cmtt/m/n/10 I've got the world's weight on my shoulders and I have wept 
+a thousand years[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 4755--4755
+[]\OT1/cmtt/m/n/10 And I've been traveling down this road all these days and al
+l these nights[] 
+ []
+
+
+Overfull \hbox (26.4968pt too wide) in paragraph at lines 4756--4756
+[]\OT1/cmtt/m/n/10 I've been traveling for so long now, I've been searching for
+ the light[] 
+ []
+
+
+Overfull \hbox (26.4968pt too wide) in paragraph at lines 4758--4758
+[]\OT1/cmtt/m/n/10 We've got pain and we've got sorrow that we've been trying n
+ot to feel[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 4759--4759
+[]\OT1/cmtt/m/n/10 We've got trouble all around us and we've got wounds that st
+ill won't heal[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 4760--4760
+[]\OT1/cmtt/m/n/10 So let's hold on to each other and let love take us through 
+the night[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 4761--4761
+[]\OT1/cmtt/m/n/10 Help us stumble through the darkness, take us to the morning
+ light[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 4764--4764
+[]\OT1/cmtt/m/n/10 I've got the world's weight on my shoulders but I won't shed
+ another tear[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 4766--4766
+[]\OT1/cmtt/m/n/10 And we will hold on to each other and we will sing and we wi
+ll pray[] 
+ []
+
+[148
+
+
+]
+
+LaTeX Warning: Reference `abschap.64.beg' on page 149 undefined on input line 4
+774.
+
+
+LaTeX Warning: Reference `abschap.64.end' on page 149 undefined on input line 4
+774.
+
+[149
+
+
+]
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 4781--4781
+[]\OT1/cmtt/m/n/10 I will lay my burdens down            }1st verse is just lea
+d and mandolin[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 4800--4800
+[]\OT1/cmtt/m/n/10 G   *C   Bm A  C*               *This is just walking from C
+ back up to C*[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 4801--4801
+[]\OT1/cmtt/m/n/10 Hallelu--u--u--jah              *Walking is playing individu
+al notes on a[] 
+ []
+
+
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 4802--4802
+[]\OT1/cmtt/m/n/10 G    C  G                        string. So C B A are the no
+tes that you play[] 
+ []
+
+
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 4803--4803
+[]\OT1/cmtt/m/n/10 Hallelujah                       on the A string. The ones o
+n hallelujah that[] 
+ []
+
+
+Overfull \hbox (31.74675pt too wide) in paragraph at lines 4804--4804
+[]\OT1/cmtt/m/n/10 G    C   Bm A  G                 I wrote were the chords but
+ I play the[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 4805--4805
+[]\OT1/cmtt/m/n/10 Hallelu--u--u--jah               notes. It's easier than it 
+sounds.*[] 
+ []
+
+[150] [151]
+
+LaTeX Warning: Reference `abschap.65.beg' on page 152 undefined on input line 4
+842.
+
+
+LaTeX Warning: Reference `abschap.65.end' on page 152 undefined on input line 4
+842.
+
+[152
+
+
+]
+
+LaTeX Warning: Reference `abschap.66.beg' on page 153 undefined on input line 4
+865.
+
+
+LaTeX Warning: Reference `abschap.66.end' on page 153 undefined on input line 4
+865.
+
+[153
+
+
+]
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 4886--4886
+[]\OT1/cmtt/m/n/10 Now I see love tugging your skirt, singing please, please, p
+lease[] 
+ []
+
+[154]
+
+LaTeX Warning: Reference `abschap.67.beg' on page 155 undefined on input line 4
+912.
+
+
+LaTeX Warning: Reference `abschap.67.end' on page 155 undefined on input line 4
+912.
+
+[155
+
+
+]
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 4945--4945
+[]            \OT1/cmtt/m/n/10 You'll ask me to pray for rain - with ash in you
+r mouth[] 
+ []
+
+[156]
+
+LaTeX Warning: Reference `abschap.68.beg' on page 157 undefined on input line 4
+953.
+
+
+LaTeX Warning: Reference `abschap.68.end' on page 157 undefined on input line 4
+953.
+
+[157
+
+
+] [158]
+
+LaTeX Warning: Reference `abschap.69.beg' on page 159 undefined on input line 4
+993.
+
+
+LaTeX Warning: Reference `abschap.69.end' on page 159 undefined on input line 4
+993.
+
+[159
+
+
+] [160] [161]
+
+LaTeX Warning: Reference `abschap.70.beg' on page 162 undefined on input line 5
+052.
+
+
+LaTeX Warning: Reference `abschap.70.end' on page 162 undefined on input line 5
+052.
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 5055--5055
+[]\OT1/cmtt/m/n/10 I[F] met with Captain Farrel, and his[C] money he was[G] cou
+ntin',[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 5056--5056
+[]\OT1/cmtt/m/n/10 I[C] first produced my pistol, and I[Am] than produced my ra
+pier,[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 5082--5082
+[]\OT1/cmtt/m/n/10 And I'm sure he'll treat me better than my darling sporting 
+Jenny.[] 
+ []
+
+[162
+
+
+]
+
+LaTeX Warning: Reference `abschap.71.beg' on page 163 undefined on input line 5
+086.
+
+
+LaTeX Warning: Reference `abschap.71.end' on page 163 undefined on input line 5
+086.
+
+[163
+
+
+] [164] [165]
+
+LaTeX Warning: Reference `abschap.72.beg' on page 166 undefined on input line 5
+143.
+
+
+LaTeX Warning: Reference `abschap.72.end' on page 166 undefined on input line 5
+143.
+
+[166
+
+
+] [167]
+
+LaTeX Warning: Reference `abschap.73.beg' on page 168 undefined on input line 5
+212.
+
+
+LaTeX Warning: Reference `abschap.73.end' on page 168 undefined on input line 5
+212.
+
+[168
+
+
+]
+
+LaTeX Warning: Reference `abschap.74.beg' on page 169 undefined on input line 5
+252.
+
+
+LaTeX Warning: Reference `abschap.74.end' on page 169 undefined on input line 5
+252.
+
+[169
+
+
+] [170]
+
+LaTeX Warning: Reference `abschap.75.beg' on page 171 undefined on input line 5
+290.
+
+
+LaTeX Warning: Reference `abschap.75.end' on page 171 undefined on input line 5
+290.
+
+[171
+
+
+] [172]
+
+LaTeX Warning: Reference `abschap.76.beg' on page 173 undefined on input line 5
+333.
+
+
+LaTeX Warning: Reference `abschap.76.end' on page 173 undefined on input line 5
+333.
+
+[173
+
+
+] [174] [175]
+
+LaTeX Warning: Reference `abschap.77.beg' on page 176 undefined on input line 5
+395.
+
+
+LaTeX Warning: Reference `abschap.77.end' on page 176 undefined on input line 5
+395.
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 5401--5401
+[]\OT1/cmtt/m/n/10 There are places I'll remember    all my li--ife though some
+ have changed,[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 5404--5404
+[]\OT1/cmtt/m/n/10 Some forever not for better,    some have go--one and some r
+emain.[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 5406--5406
+[]            \OT1/cmtt/m/n/10 Em              C             F                 
+    G[] 
+ []
+
+
+Overfull \hbox (73.74638pt too wide) in paragraph at lines 5407--5407
+[]\OT1/cmtt/m/n/10 All these places had their moments, with lovers and friends 
+I still can recall,[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 5409--5409
+[]          \OT1/cmtt/m/n/10 Em                A7        Cm7           G       
+           D[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 5410--5410
+[]\OT1/cmtt/m/n/10 Some are dead and some are living, in my life I've loved the
+m all.[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 5414--5414
+[]\OT1/cmtt/m/n/10 But of all these friends and lovers,   there is no one compa
+res with you,[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 5416--5416
+[]           \OT1/cmtt/m/n/10 G                   Em     G7          C       Cm
+7     G[] 
+ []
+
+
+Overfull \hbox (73.74638pt too wide) in paragraph at lines 5417--5417
+[]\OT1/cmtt/m/n/10 And these memories lose their meaning,   when I think of lov
+e as something new.[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 5419--5419
+[]          \OT1/cmtt/m/n/10 Em                     C           F              
+        G[] 
+ []
+
+
+Overfull \hbox (73.74638pt too wide) in paragraph at lines 5420--5420
+[]\OT1/cmtt/m/n/10 Though I know I'll never lose affection for people and thing
+s that went before,[] 
+ []
+
+
+Overfull \hbox (73.74638pt too wide) in paragraph at lines 5422--5422
+[]   \OT1/cmtt/m/n/10 Em                              A7           Cm7         
+  G               D[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 5423--5423
+[]\OT1/cmtt/m/n/10 I know I'll often stop and think about them, in my life I'll
+ love you more.[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 5433--5433
+[]          \OT1/cmtt/m/n/10 Em                     C           F              
+        G[] 
+ []
+
+
+Overfull \hbox (73.74638pt too wide) in paragraph at lines 5434--5434
+[]\OT1/cmtt/m/n/10 Though I know I'll never lose affection for people and thing
+s that went before,[] 
+ []
+
+
+Overfull \hbox (73.74638pt too wide) in paragraph at lines 5436--5436
+[]   \OT1/cmtt/m/n/10 Em                              A7           Cm7         
+  G               D[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 5437--5437
+[]\OT1/cmtt/m/n/10 I know I'll often stop and think about them, in my life I'll
+ love you more.[] 
+ []
+
+[176
+
+
+]
+
+LaTeX Warning: Reference `abschap.78.beg' on page 177 undefined on input line 5
+443.
+
+
+LaTeX Warning: Reference `abschap.78.end' on page 177 undefined on input line 5
+443.
+
+[177
+
+
+] [178] [179]
+
+LaTeX Warning: Reference `abschap.79.beg' on page 180 undefined on input line 5
+509.
+
+
+LaTeX Warning: Reference `abschap.79.end' on page 180 undefined on input line 5
+509.
+
+[180
+
+
+] [181]
+
+LaTeX Warning: Reference `abschap.80.beg' on page 182 undefined on input line 5
+599.
+
+
+LaTeX Warning: Reference `abschap.80.end' on page 182 undefined on input line 5
+599.
+
+[182
+
+
+]
+
+LaTeX Warning: Reference `abschap.81.beg' on page 183 undefined on input line 5
+639.
+
+
+LaTeX Warning: Reference `abschap.81.end' on page 183 undefined on input line 5
+639.
+
+[183
+
+
+]
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 5642--5642
+[]            \OT1/cmtt/m/n/10 D              Asus              G        A     
+    D[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 5643--5643
+[]\OT1/cmtt/m/n/10 Come, Thou Fount of every blessing, Tune my heart to sing Th
+y grace[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 5644--5644
+[]            \OT1/cmtt/m/n/10 Bm             Em         D/F#m    G        A   
+    D[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 5645--5645
+[]\OT1/cmtt/m/n/10 Streams of mercy, never ceasing, Call  for   songs of loudes
+t praise[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 5647--5647
+[]\OT1/cmtt/m/n/10 Teach me some  mel-odious sonnet, Sung by flam-ing  tongues 
+above[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 5661--5661
+[]\OT1/cmtt/m/n/10 Here's my heart, Oh take and seal it, Seal it for Thy courts
+ above[] 
+ []
+
+[184]
+
+LaTeX Warning: Reference `abschap.82.beg' on page 185 undefined on input line 5
+666.
+
+
+LaTeX Warning: Reference `abschap.82.end' on page 185 undefined on input line 5
+666.
+
+[185
+
+
+] [186] [187] [188]
+
+LaTeX Warning: Reference `abschap.83.beg' on page 189 undefined on input line 5
+785.
+
+
+LaTeX Warning: Reference `abschap.83.end' on page 189 undefined on input line 5
+785.
+
+[189
+
+
+]
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 5802--5802
+[]\OT1/cmtt/m/n/10 supplies are endless in the evening by the morning they'll b
+e gone[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 5820--5820
+[]\OT1/cmtt/m/n/10 So many men stronger than me have thrown their backs out try
+ing to lift it[] 
+ []
+
+[190]
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 5832--5832
+[]\OT1/cmtt/m/n/10 You're looking skinny like a model with your eyes all painte
+d black[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 5847--5847
+[]\OT1/cmtt/m/n/10 Yeah we might die from medication but we sure killed all the
+ pain[] 
+ []
+
+
+Overfull \hbox (126.24593pt too wide) in paragraph at lines 5863--5863
+[]\OT1/cmtt/m/n/10 It was so simple in the moonlight, so simple in the moonligh
+t, so simple in the moonlight[] 
+ []
+
+[191]
+
+LaTeX Warning: Reference `abschap.84.beg' on page 192 undefined on input line 5
+866.
+
+
+LaTeX Warning: Reference `abschap.84.end' on page 192 undefined on input line 5
+866.
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 5909--5909
+[]    \OT1/cmtt/m/n/10 Dminsus2                                                
+    C[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 5910--5910
+[]\OT1/cmtt/m/n/10 But I realized how I need you and I wondered if I could come
+ home[] 
+ []
+
+[192
+
+
+]
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 5939--5939
+[]                \OT1/cmtt/m/n/10 Dminsus2                                    
+           C[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 5940--5940
+[]\OT1/cmtt/m/n/10 But I'd rather be working for a paycheck than waiting to win
+ the lottery[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 5944--5944
+[]          \OT1/cmtt/m/n/10 Dminsus2                                          
+            C[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 5945--5945
+[]\OT1/cmtt/m/n/10 Besides, maybe this time its different, I mean I really thin
+k you like me[] 
+ []
+
+[193]
+
+LaTeX Warning: Reference `abschap.85.beg' on page 194 undefined on input line 5
+955.
+
+
+LaTeX Warning: Reference `abschap.85.end' on page 194 undefined on input line 5
+955.
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 5967--5967
+[]\OT1/cmtt/m/n/10 1. I am the man of constant sorrow, I've seen trouble all my
+ days[] 
+ []
+
+
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 5968--5968
+[]\OT1/cmtt/m/n/10 2. For six long years, I've been in trouble, No pleasure her
+e on earth I find[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 5969--5969
+[]\OT1/cmtt/m/n/10 3. It's fare-thee-well my own new lover, I never expect to s
+ee you again[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 5970--5970
+[]\OT1/cmtt/m/n/10 4. You can bury me in some deep valley, Or any hill where I 
+may lay[] 
+ []
+
+
+Overfull \hbox (84.24629pt too wide) in paragraph at lines 5971--5971
+[]\OT1/cmtt/m/n/10 5. Maybe your friends think I'm just a stranger, My face you
+'ll never see no more[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 5974--5974
+[]\OT1/cmtt/m/n/10 1. I bid farewell to old Kentucky, The place where I was bor
+n and raised[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 5975--5975
+[]\OT1/cmtt/m/n/10 2. For in this world, I'm bound to ramble, I have no friends
+ to help me now[] 
+ []
+
+
+Overfull \hbox (84.24629pt too wide) in paragraph at lines 5976--5976
+[]\OT1/cmtt/m/n/10 3. For I'm bound to ride that northern railroad, Perhaps I'l
+l die upon this train[] 
+ []
+
+
+Overfull \hbox (26.4968pt too wide) in paragraph at lines 5977--5977
+[]\OT1/cmtt/m/n/10 4. Then you may learn to love another, While I am sleeping i
+n my grave[] 
+ []
+
+
+Overfull \hbox (68.49643pt too wide) in paragraph at lines 5978--5978
+[]\OT1/cmtt/m/n/10 5. But there is one promise that is given, I'll meet you on 
+God's golden shore[] 
+ []
+
+[194
+
+
+]
+
+LaTeX Warning: Reference `abschap.86.beg' on page 195 undefined on input line 5
+990.
+
+
+LaTeX Warning: Reference `abschap.86.end' on page 195 undefined on input line 5
+990.
+
+[195
+
+
+]
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 5993--5993
+[]\OT1/cmtt/m/n/10 Nibblin on sponge cake, watchin the sun bake, all of those t
+ourist covered[] 
+ []
+
+
+Overfull \hbox (31.74675pt too wide) in paragraph at lines 5995--5995
+[]\OT1/cmtt/m/n/10 with oil.  Strummin my six string, on my front porch swing, 
+smell those[] 
+ []
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 5998--5998
+[]\OT1/cmtt/m/n/10 G      A                   D       D7  G              A     
+          D   D7[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 5999--5999
+[]\OT1/cmtt/m/n/10 Wastin away again in Margaritaville,   searchin for my lost 
+shaker of salt.[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 6001--6001
+[]\OT1/cmtt/m/n/10 Some peolple claim that there's a woman to blame, but I know
+, it's nobody's[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 6005--6005
+[]\OT1/cmtt/m/n/10 Don't know the reason, I stayed here all season.  Nothin to 
+show but this[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 6007--6007
+[]\OT1/cmtt/m/n/10 brand new tattoo.  But it's a real beauty, a Mexican cutie, 
+how it got here[] 
+ []
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 6010--6010
+[]\OT1/cmtt/m/n/10 G      A                   D       D7  G              A     
+          D   D7[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 6011--6011
+[]\OT1/cmtt/m/n/10 Wastin away again in Margaritaville,   searchin for my lost 
+shaker of salt.[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 6013--6013
+[]\OT1/cmtt/m/n/10 Some people claim that there's a woman to blame, now I think
+, hell it could[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 6017--6017
+[]\OT1/cmtt/m/n/10 I blew out my flip flop, stepped on a pop top, cut my heal h
+ad to cruise on[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 6019--6019
+[]\OT1/cmtt/m/n/10 back home.  But there's booze in the blender, and soon it wi
+ll render, that[] 
+ []
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 6022--6022
+[]\OT1/cmtt/m/n/10 G      A                   D       D7  G              A     
+          D   D7[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 6023--6023
+[]\OT1/cmtt/m/n/10 Wastin away again in Margaritaville,   searchin for my lost 
+shaker of salt.[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 6025--6025
+[]\OT1/cmtt/m/n/10 Some people claim that there's a woman to blame, but I know,
+ it's my own[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 6026--6026
+[]     \OT1/cmtt/m/n/10 D      D7        G           A                    D  A 
+    G[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 6027--6027
+[]\OT1/cmtt/m/n/10 damn fault.  Yes and, some people claim that there's a woman
+ to blame, and[] 
+ []
+
+[196]
+
+LaTeX Warning: Reference `abschap.87.beg' on page 197 undefined on input line 6
+033.
+
+
+LaTeX Warning: Reference `abschap.87.end' on page 197 undefined on input line 6
+033.
+
+[197
+
+
+] [198] [199]
+
+LaTeX Warning: Reference `abschap.88.beg' on page 200 undefined on input line 6
+095.
+
+
+LaTeX Warning: Reference `abschap.88.end' on page 200 undefined on input line 6
+095.
+
+[200
+
+
+] [201]
+
+LaTeX Warning: Reference `abschap.89.beg' on page 202 undefined on input line 6
+162.
+
+
+LaTeX Warning: Reference `abschap.89.end' on page 202 undefined on input line 6
+162.
+
+[202
+
+
+] [203]
+
+LaTeX Warning: Reference `abschap.90.beg' on page 204 undefined on input line 6
+241.
+
+
+LaTeX Warning: Reference `abschap.90.end' on page 204 undefined on input line 6
+241.
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 6246--6246
+[]     \OT1/cmtt/m/n/10 Am7                  Am7(G)               D9(F#)       
+   G   Gmaj7[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 6247--6247
+[]\OT1/cmtt/m/n/10 The moon rose through the night time, till the daybreak roll
+s around[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 6257--6257
+[]\OT1/cmtt/m/n/10 But I've got this funny feeling, that we'll all get together
+ again[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 6258--6258
+[]\OT1/cmtt/m/n/10 There's no straight lines make up my life, all the roads hav
+e bends[] 
+ []
+
+[204
+
+
+]
+
+LaTeX Warning: Reference `abschap.91.beg' on page 205 undefined on input line 6
+270.
+
+
+LaTeX Warning: Reference `abschap.91.end' on page 205 undefined on input line 6
+270.
+
+[205
+
+
+] [206] [207] [208]
+
+LaTeX Warning: Reference `abschap.92.beg' on page 209 undefined on input line 6
+390.
+
+
+LaTeX Warning: Reference `abschap.92.end' on page 209 undefined on input line 6
+390.
+
+[209
+
+
+] [210] [211]
+
+LaTeX Warning: Reference `abschap.93.beg' on page 212 undefined on input line 6
+448.
+
+
+LaTeX Warning: Reference `abschap.93.end' on page 212 undefined on input line 6
+448.
+
+[212
+
+
+] [213]
+
+LaTeX Warning: Reference `abschap.94.beg' on page 214 undefined on input line 6
+542.
+
+
+LaTeX Warning: Reference `abschap.94.end' on page 214 undefined on input line 6
+542.
+
+[214
+
+
+]
+
+LaTeX Warning: Reference `abschap.95.beg' on page 215 undefined on input line 6
+565.
+
+
+LaTeX Warning: Reference `abschap.95.end' on page 215 undefined on input line 6
+565.
+
+[215
+
+
+]
+Overfull \hbox (110.49606pt too wide) in paragraph at lines 6568--6568
+[]\OT1/cmtt/m/n/10 this song is originally played on piano and there is a synth
+ part in the middle that I[] 
+ []
+
+[216]
+
+LaTeX Warning: Reference `abschap.96.beg' on page 217 undefined on input line 6
+589.
+
+
+LaTeX Warning: Reference `abschap.96.end' on page 217 undefined on input line 6
+589.
+
+[217
+
+
+]
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 6591--6591
+[]\OT1/cmtt/m/n/10 Tuning: Capo on 4th or 5th fret depending on how Your guitar
+ is tuned[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+[218]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [219]
+
+LaTeX Warning: Reference `abschap.97.beg' on page 220 undefined on input line 6
+677.
+
+
+LaTeX Warning: Reference `abschap.97.end' on page 220 undefined on input line 6
+677.
+
+[220
+
+
+] [221]
+
+LaTeX Warning: Reference `abschap.98.beg' on page 222 undefined on input line 6
+740.
+
+
+LaTeX Warning: Reference `abschap.98.end' on page 222 undefined on input line 6
+740.
+
+[222
+
+
+]
+
+LaTeX Warning: Reference `abschap.99.beg' on page 223 undefined on input line 6
+788.
+
+
+LaTeX Warning: Reference `abschap.99.end' on page 223 undefined on input line 6
+788.
+
+[223
+
+
+] [224]
+
+LaTeX Warning: Reference `abschap.100.beg' on page 225 undefined on input line 
+6836.
+
+
+LaTeX Warning: Reference `abschap.100.end' on page 225 undefined on input line 
+6836.
+
+[225
+
+
+]
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 6879--6879
+[]\OT1/cmtt/m/n/10 We're just a million little gods causing rain storms turning
+ every good thing[] 
+ []
+
+[226] [227]
+
+LaTeX Warning: Reference `abschap.101.beg' on page 228 undefined on input line 
+6920.
+
+
+LaTeX Warning: Reference `abschap.101.end' on page 228 undefined on input line 
+6920.
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 6927--6927
+[]\OT1/cmtt/m/n/10 (To emulate banjo play   Am    Am-add6     Am    C    the la
+st two times)[] 
+ []
+
+[228
+
+
+] [229] [230]
+
+LaTeX Warning: Reference `abschap.102.beg' on page 231 undefined on input line 
+7041.
+
+
+LaTeX Warning: Reference `abschap.102.end' on page 231 undefined on input line 
+7041.
+
+[231
+
+
+]
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 7044--7044
+[]\OT1/cmtt/m/n/10 G               Em             D                     C      
+    G[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 7045--7045
+[]\OT1/cmtt/m/n/10 Almost Heaven, West Virginia, Blue Ridge Mountains, Shenando
+ah River.[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 7046--7046
+[]\OT1/cmtt/m/n/10 G                 Em                    D                   
+        C[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 7047--7047
+[]\OT1/cmtt/m/n/10 Life is old here, older than the trees, younger than the mou
+ntains, blowin[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 7052--7052
+[]\OT1/cmtt/m/n/10 chorus: Country Roads, take me home, to a place, where I bel
+ong, West[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 7057--7057
+[]\OT1/cmtt/m/n/10 verse 2: All my memories gather round her, miner's lady, str
+anger to blue[] 
+ []
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 7061--7061
+[]\OT1/cmtt/m/n/10 Dark and dusty, painted on the sky, misty taste of moonshine
+, teardrop in my[] 
+ []
+
+
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 7068--7068
+[]\OT1/cmtt/m/n/10 verse 3: I hear her voice in the morning hour she calls me, 
+the radio reminds[] 
+ []
+
+
+Overfull \hbox (26.4968pt too wide) in paragraph at lines 7072--7072
+[]\OT1/cmtt/m/n/10 And driving down the road I get a feeling that I should have
+ been home[] 
+ []
+
+[232]
+
+LaTeX Warning: Reference `abschap.103.beg' on page 233 undefined on input line 
+7081.
+
+
+LaTeX Warning: Reference `abschap.103.end' on page 233 undefined on input line 
+7081.
+
+[233
+
+
+]
+Overfull \hbox (68.49643pt too wide) in paragraph at lines 7085--7085
+[]\OT1/cmtt/m/n/10 #A much simpler version, a sort of a camp-fire version of it
+, and easy to sing[] 
+ []
+
+
+Overfull \hbox (73.74638pt too wide) in paragraph at lines 7086--7086
+[]\OT1/cmtt/m/n/10 along with as well, which works best for me. A friend of min
+e used to play like[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 7108--7108
+[]        \OT1/cmtt/m/n/10 C        D              G          C               D
+           G[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 7109--7109
+[]\OT1/cmtt/m/n/10 But the Colorado Rocky Mountain high, I've seen it rainin' f
+ire in the sky.[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 7120--7120
+[]\OT1/cmtt/m/n/10 And they say that he got crazy once and he tried to touch th
+e sun,[] 
+ []
+
+[234]
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 7136--7136
+[]        \OT1/cmtt/m/n/10 C        D              G          C               D
+           G[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 7137--7137
+[]\OT1/cmtt/m/n/10 And the Colorado Rocky Mountain high, I've seen it rainin' f
+ire in the sky.[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 7144--7144
+[]\OT1/cmtt/m/n/10 Now his life is full of wonder, but his heart still know som
+e fear[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 7148--7148
+[]\OT1/cmtt/m/n/10 Why they try to tear the mountain down to bring in a couple 
+more,[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 7152--7152
+[]        \OT1/cmtt/m/n/10 C        D              G          C               D
+           G[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 7153--7153
+[]\OT1/cmtt/m/n/10 And the Colorado Rocky Mountain high, I've seen it rainin' f
+ire in the sky.[] 
+ []
+
+[235]
+
+LaTeX Warning: Reference `abschap.104.beg' on page 236 undefined on input line 
+7171.
+
+
+LaTeX Warning: Reference `abschap.104.end' on page 236 undefined on input line 
+7171.
+
+
+Overfull \hbox (73.74638pt too wide) in paragraph at lines 7176--7176
+[]   \OT1/cmtt/m/n/10 My latest sun is sinking fast,               Oh, bear my 
+loving heart to him[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 7177--7177
+[]                                                \OT1/cmtt/m/n/10 Who bled and
+ died for me,[] 
+ []
+
+
+Overfull \hbox (115.74602pt too wide) in paragraph at lines 7178--7178
+[]                 \OT1/cmtt/m/n/10 D    G                         Whose blood 
+now cleanses from all sins,[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 7179--7179
+[]   \OT1/cmtt/m/n/10 My race is nearly run,                       And give me 
+victory,[] 
+ []
+
+
+Overfull \hbox (105.24611pt too wide) in paragraph at lines 7183--7183
+[]                                                \OT1/cmtt/m/n/10 I've almost 
+reached my heavenly home,[] 
+ []
+
+
+Overfull \hbox (31.74675pt too wide) in paragraph at lines 7184--7184
+[]               \OT1/cmtt/m/n/10 D   G                            My spirit lo
+udly sings,[] 
+ []
+
+
+Overfull \hbox (78.99634pt too wide) in paragraph at lines 7185--7185
+[]   \OT1/cmtt/m/n/10 My triumph has begun,                        The holy one
+s, behold they come,[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 7186--7186
+[]\OT1/cmtt/m/n/10 Chorus. . .                                     I hear the n
+oise of wings,[] 
+ []
+
+[236
+
+
+]
+
+LaTeX Warning: Reference `abschap.105.beg' on page 237 undefined on input line 
+7209.
+
+
+LaTeX Warning: Reference `abschap.105.end' on page 237 undefined on input line 
+7209.
+
+[237
+
+
+]
+Missing character: There is no √ in font cmtt10!
+Missing character: There is no ¢ in font cmtt10!
+Missing character: There is no √ in font cmtt10!
+Missing character: There is no ¢ in font cmtt10!
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 7237--7237
+[]\OT1/cmtt/m/n/10 C                              G              D             
+       G[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 7238--7238
+[]\OT1/cmtt/m/n/10 Said a couple of you are gonna grease my chin, before I leav
+e this town-o[] 
+ []
+
+Missing character: There is no √ in font cmtt10!
+Missing character: There is no ¢ in font cmtt10!
+Missing character: There is no √ in font cmtt10!
+Missing character: There is no ¢ in font cmtt10!
+[238] [239]
+
+LaTeX Warning: Reference `abschap.106.beg' on page 240 undefined on input line 
+7296.
+
+
+LaTeX Warning: Reference `abschap.106.end' on page 240 undefined on input line 
+7296.
+
+[240
+
+
+] [241]
+
+LaTeX Warning: Reference `abschap.107.beg' on page 242 undefined on input line 
+7372.
+
+
+LaTeX Warning: Reference `abschap.107.end' on page 242 undefined on input line 
+7372.
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 7386--7386
+[]\OT1/cmtt/m/n/10 I don't know where it landed but I'm guessing between green 
+and gray.[] 
+ []
+
+[242
+
+
+]
+
+LaTeX Warning: Reference `abschap.108.beg' on page 243 undefined on input line 
+7406.
+
+
+LaTeX Warning: Reference `abschap.108.end' on page 243 undefined on input line 
+7406.
+
+[243
+
+
+] [244]
+
+LaTeX Warning: Reference `abschap.109.beg' on page 245 undefined on input line 
+7453.
+
+
+LaTeX Warning: Reference `abschap.109.end' on page 245 undefined on input line 
+7453.
+
+[245
+
+
+] [246] [247] [248]
+
+LaTeX Warning: Reference `abschap.110.beg' on page 249 undefined on input line 
+7581.
+
+
+LaTeX Warning: Reference `abschap.110.end' on page 249 undefined on input line 
+7581.
+
+[249
+
+
+] [250] [251] [252]
+
+LaTeX Warning: Reference `abschap.111.beg' on page 253 undefined on input line 
+7687.
+
+
+LaTeX Warning: Reference `abschap.111.end' on page 253 undefined on input line 
+7687.
+
+[253
+
+
+]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 7721--7721
+[]\OT1/cmtt/m/n/10 Em                                        C   G     C    G(R
+un down)[] 
+ []
+
+[254]
+
+LaTeX Warning: Reference `abschap.112.beg' on page 255 undefined on input line 
+7736.
+
+
+LaTeX Warning: Reference `abschap.112.end' on page 255 undefined on input line 
+7736.
+
+[255
+
+
+] [256] [257] [258]
+
+LaTeX Warning: Reference `abschap.113.beg' on page 259 undefined on input line 
+7853.
+
+
+LaTeX Warning: Reference `abschap.113.end' on page 259 undefined on input line 
+7853.
+
+[259
+
+
+] [260] [261]
+
+LaTeX Warning: Reference `abschap.114.beg' on page 262 undefined on input line 
+7929.
+
+
+LaTeX Warning: Reference `abschap.114.end' on page 262 undefined on input line 
+7929.
+
+[262
+
+
+] [263]
+
+LaTeX Warning: Reference `abschap.115.beg' on page 264 undefined on input line 
+8005.
+
+
+LaTeX Warning: Reference `abschap.115.end' on page 264 undefined on input line 
+8005.
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+[264
+
+
+]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ò in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ® in font cmtt10!
+ [265]
+
+LaTeX Warning: Reference `abschap.116.beg' on page 266 undefined on input line 
+8078.
+
+
+LaTeX Warning: Reference `abschap.116.end' on page 266 undefined on input line 
+8078.
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 8102--8102
+[]  \OT1/cmtt/m/n/10 And history books for-got about us and the bible didn't me
+ntion us[] 
+ []
+
+[266
+
+
+] [267]
+
+LaTeX Warning: Reference `abschap.117.beg' on page 268 undefined on input line 
+8167.
+
+
+LaTeX Warning: Reference `abschap.117.end' on page 268 undefined on input line 
+8167.
+
+[268
+
+
+] [269]
+
+LaTeX Warning: Reference `abschap.118.beg' on page 270 undefined on input line 
+8238.
+
+
+LaTeX Warning: Reference `abschap.118.end' on page 270 undefined on input line 
+8238.
+
+[270
+
+
+] [271] [272]
+
+LaTeX Warning: Reference `abschap.119.beg' on page 273 undefined on input line 
+8366.
+
+
+LaTeX Warning: Reference `abschap.119.end' on page 273 undefined on input line 
+8366.
+
+[273
+
+
+] [274] <here_in_california.pdf, id=882, 614.295pt x 794.97pt>
+File: here_in_california.pdf Graphic file (type pdf)
+
+<use here_in_california.pdf>
+Package pdftex.def Info: here_in_california.pdf used on input line 8414.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: here_in_california.pdf Graphic file (type pdf)
+ <use here_in_california.pdf>
+Package pdftex.def Info: here_in_california.pdf used on input line 8414.
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+
+<here_in_california.pdf, id=885, page=1, 614.295pt x 794.97pt>
+File: here_in_california.pdf Graphic file (type pdf)
+
+<use here_in_california.pdf, page 1>
+Package pdftex.def Info: here_in_california.pdf, page1 used on input line 8414.
+
+(pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
+File: here_in_california.pdf Graphic file (type pdf)
+ <use here_in_california.pdf, page 1>
+Package pdftex.def Info: here_in_california.pdf, page1 used on input line 8414.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: here_in_california.pdf Graphic file (type pdf)
+
+<use here_in_california.pdf, page 1>
+Package pdftex.def Info: here_in_california.pdf, page1 used on input line 8414.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: here_in_california.pdf Graphic file (type pdf)
+ <use here_in_california.pdf, page 1>
+Package pdftex.def Info: here_in_california.pdf, page1 used on input line 8414.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+File: here_in_california.pdf Graphic file (type pdf)
+
+<use here_in_california.pdf, page 1>
+Package pdftex.def Info: here_in_california.pdf, page1 used on input line 8414.
+
+(pdftex.def)             Requested size: 614.58406pt x 795.3441pt.
+ [275 <./here_in_california.pdf>]
+
+Package pdfpages Warning: There's something wrong with the entries
+(pdfpages)                of `addtotoc'. Not all entries were
+(pdfpages)                processed. Check `addtotoc' on input line 8414.
+
+
+LaTeX Warning: Reference `abschap.120.beg' on page 276 undefined on input line 
+8416.
+
+
+LaTeX Warning: Reference `abschap.120.end' on page 276 undefined on input line 
+8416.
+
+[276
+
+
+]
+
+LaTeX Warning: Reference `abschap.121.beg' on page 277 undefined on input line 
+8465.
+
+
+LaTeX Warning: Reference `abschap.121.end' on page 277 undefined on input line 
+8465.
+
+[277
+
+
+] [278]
+
+LaTeX Warning: Reference `abschap.122.beg' on page 279 undefined on input line 
+8509.
+
+
+LaTeX Warning: Reference `abschap.122.end' on page 279 undefined on input line 
+8509.
+
+[279
+
+
+] [280] [281]
+
+LaTeX Warning: Reference `abschap.123.beg' on page 282 undefined on input line 
+8587.
+
+
+LaTeX Warning: Reference `abschap.123.end' on page 282 undefined on input line 
+8587.
+
+[282
+
+
+]
+
+LaTeX Warning: Reference `abschap.124.beg' on page 283 undefined on input line 
+8638.
+
+
+LaTeX Warning: Reference `abschap.124.end' on page 283 undefined on input line 
+8638.
+
+[283
+
+
+]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+ [284]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ì in font cmtt10!
+ [285]
+
+LaTeX Warning: Reference `abschap.125.beg' on page 286 undefined on input line 
+8732.
+
+
+LaTeX Warning: Reference `abschap.125.end' on page 286 undefined on input line 
+8732.
+
+[286
+
+
+]
+
+LaTeX Warning: Reference `abschap.126.beg' on page 287 undefined on input line 
+8781.
+
+
+LaTeX Warning: Reference `abschap.126.end' on page 287 undefined on input line 
+8781.
+
+[287
+
+
+]
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 8796--8796
+[]    \OT1/cmtt/m/n/10 G                     C                     G         D 
+     G[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 8797--8797
+[]\OT1/cmtt/m/n/10 But give me enough of the rare old stuff that's made near Ga
+lway Bay[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 8800--8800
+[]      \OT1/cmtt/m/n/10 G                            C                 G      
+  D        G[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 8801--8801
+[]\OT1/cmtt/m/n/10 We'll give them the slip and we'll take a sip of the real ol
+d Mountain Dew[] 
+ []
+
+
+Overfull \hbox (105.24611pt too wide) in paragraph at lines 8805--8805
+[]\OT1/cmtt/m/n/10 At the foot of the hill there's a neat little still, where t
+he smoke curls up the sky[] 
+ []
+
+
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 8806--8806
+[]\OT1/cmtt/m/n/10 By a whiff of the smell you can plainly tell, there's a poit
+in still close by[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 8807--8807
+[]\OT1/cmtt/m/n/10 Oh it fills the air with a perfume rare and betwixt both me 
+and you[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 8812--8812
+[]\OT1/cmtt/m/n/10 Of the sweet poitin from Ireland green, destilled from wheat
+ and rye[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 8813--8813
+[]\OT1/cmtt/m/n/10 Away with pills, it will cure all ills of the Pagan, Christi
+an or Jew[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 8814--8814
+[]\OT1/cmtt/m/n/10 So take off your coat and grease your throat with the real o
+ld Mountain Dew[] 
+ []
+
+[288]
+
+LaTeX Warning: Reference `abschap.127.beg' on page 289 undefined on input line 
+8820.
+
+
+LaTeX Warning: Reference `abschap.127.end' on page 289 undefined on input line 
+8820.
+
+[289
+
+
+]
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 8822--8822
+[]\OT1/cmtt/m/n/10 #-----------------------------------------------------------
+-------#[] 
+ []
+
+[290] [291]
+
+LaTeX Warning: Reference `abschap.128.beg' on page 292 undefined on input line 
+8894.
+
+
+LaTeX Warning: Reference `abschap.128.end' on page 292 undefined on input line 
+8894.
+
+[292
+
+
+]
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 8941--8941
+[]                 \OT1/cmtt/m/n/10 C                        F                 
+   Am[] 
+ []
+
+
+Overfull \hbox (36.9967pt too wide) in paragraph at lines 8942--8942
+[]\OT1/cmtt/m/n/10 I feel must interject here you're getting carried away feeli
+ng sorry for[] 
+ []
+
+[293] [294]
+
+LaTeX Warning: Reference `abschap.129.beg' on page 295 undefined on input line 
+9006.
+
+
+LaTeX Warning: Reference `abschap.129.end' on page 295 undefined on input line 
+9006.
+
+[295
+
+
+] [296] [297] [298]
+
+LaTeX Warning: Reference `abschap.130.beg' on page 299 undefined on input line 
+9143.
+
+
+LaTeX Warning: Reference `abschap.130.end' on page 299 undefined on input line 
+9143.
+
+[299
+
+
+] [300] [301]
+
+LaTeX Warning: Reference `abschap.131.beg' on page 302 undefined on input line 
+9230.
+
+
+LaTeX Warning: Reference `abschap.131.end' on page 302 undefined on input line 
+9230.
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 9240--9240
+[]\OT1/cmtt/m/n/10 And your sheets Were growing grass all on the corners of you
+r bed[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 9245--9245
+[]         \OT1/cmtt/m/n/10 D                   C     D                 C      
+        D[] 
+ []
+
+
+Overfull \hbox (31.74675pt too wide) in paragraph at lines 9246--9246
+[]\OT1/cmtt/m/n/10 that has too much to do with me and secretly I want to bury 
+in the yard[] 
+ []
+
+[302
+
+
+]
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 9280--9280
+[]\OT1/cmtt/m/n/10 And your sheets Were growing grass all on the corners of you
+r bed[] 
+ []
+
+
+Overfull \hbox (21.24684pt too wide) in paragraph at lines 9285--9285
+[]         \OT1/cmtt/m/n/10 D                   C     D                 C      
+        D[] 
+ []
+
+
+Overfull \hbox (31.74675pt too wide) in paragraph at lines 9286--9286
+[]\OT1/cmtt/m/n/10 that has too much to do with me and secretly I want to bury 
+in the yard[] 
+ []
+
+[303]
+
+LaTeX Warning: Reference `abschap.132.beg' on page 304 undefined on input line 
+9309.
+
+
+LaTeX Warning: Reference `abschap.132.end' on page 304 undefined on input line 
+9309.
+
+[304
+
+
+] [305]
+
+LaTeX Warning: Reference `abschap.133.beg' on page 306 undefined on input line 
+9404.
+
+
+LaTeX Warning: Reference `abschap.133.end' on page 306 undefined on input line 
+9404.
+
+[306
+
+
+] [307]
+
+LaTeX Warning: Reference `abschap.134.beg' on page 308 undefined on input line 
+9485.
+
+
+LaTeX Warning: Reference `abschap.134.end' on page 308 undefined on input line 
+9485.
+
+[308
+
+
+] [309] [310]
+
+LaTeX Warning: Reference `abschap.135.beg' on page 311 undefined on input line 
+9626.
+
+
+LaTeX Warning: Reference `abschap.135.end' on page 311 undefined on input line 
+9626.
+
+[311
+
+
+] [312] [313] [314]
+
+LaTeX Warning: Reference `abschap.136.beg' on page 315 undefined on input line 
+9738.
+
+
+LaTeX Warning: Reference `abschap.136.end' on page 315 undefined on input line 
+9738.
+
+[315
+
+
+]
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 9766--9766
+[]\OT1/cmtt/m/n/10 Anger, her skin makes them sick in the night nauseaous, naus
+eaous, nauseaous[] 
+ []
+
+[316]
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 9788--9788
+[]                    \OT1/cmtt/m/n/10 C             G               C         
+             F[] 
+ []
+
+
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 9789--9789
+[]\OT1/cmtt/m/n/10 It's just when it's summer in the city, and you're so long g
+one from the city[] 
+ []
+
+[317]
+
+LaTeX Warning: Reference `abschap.137.beg' on page 318 undefined on input line 
+9809.
+
+
+LaTeX Warning: Reference `abschap.137.end' on page 318 undefined on input line 
+9809.
+
+[318
+
+
+] [319]
+
+LaTeX Warning: Reference `abschap.138.beg' on page 320 undefined on input line 
+9906.
+
+
+LaTeX Warning: Reference `abschap.138.end' on page 320 undefined on input line 
+9906.
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 9909--9909
+[]\OT1/cmtt/m/n/10 He [D] hit me with his rifle and he [G] kicked me in the [D]
+ groin[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 9910--9910
+[]\OT1/cmtt/m/n/10 I [G] begged and [C] pleaded told him [G] that I wouldn`t [D
+] fight[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 9911--9911
+[]\OT1/cmtt/m/n/10 But sure [G] all that I could [Em] think of was my [D] littl
+e arma[G]lite[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 9936--9936
+[]\OT1/cmtt/m/n/10 They cried send home for reinforcements its those bloody arm
+alites[] 
+ []
+
+[320
+
+
+]
+
+LaTeX Warning: Reference `abschap.139.beg' on page 321 undefined on input line 
+9945.
+
+
+LaTeX Warning: Reference `abschap.139.end' on page 321 undefined on input line 
+9945.
+
+[321
+
+
+] [322] [323]
+
+LaTeX Warning: Reference `abschap.140.beg' on page 324 undefined on input line 
+10015.
+
+
+LaTeX Warning: Reference `abschap.140.end' on page 324 undefined on input line 
+10015.
+
+[324
+
+
+] [325]
+
+LaTeX Warning: Reference `abschap.141.beg' on page 326 undefined on input line 
+10083.
+
+
+LaTeX Warning: Reference `abschap.141.end' on page 326 undefined on input line 
+10083.
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 10085--10085
+[]  \OT1/cmtt/m/n/10 C           G      F      G       C              G        
+F      G[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 10087--10087
+[]  \OT1/cmtt/m/n/10 C      G               F   G      C                    G  
+  F    G[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 10088--10088
+[]\OT1/cmtt/m/n/10 When everybody keeps retreating   But you can't seem to get 
+enough[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 10111--10111
+[]\OT1/cmtt/m/n/10 I have the only key to your heart       I can stop you falli
+ng apart[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 10113--10113
+[]\OT1/cmtt/m/n/10 Release yourself from misery    Only one thing's gunna set y
+ou free[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+[326
+
+
+]
+
+LaTeX Warning: Reference `abschap.142.beg' on page 327 undefined on input line 
+10133.
+
+
+LaTeX Warning: Reference `abschap.142.end' on page 327 undefined on input line 
+10133.
+
+[327
+
+
+] [328] [329]
+Missing character: There is no √ in font cmtt10!
+Missing character: There is no © in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ¶ in font cmtt10!
+ [330]
+
+LaTeX Warning: Reference `abschap.143.beg' on page 331 undefined on input line 
+10257.
+
+
+LaTeX Warning: Reference `abschap.143.end' on page 331 undefined on input line 
+10257.
+
+[331
+
+
+] [332] [333]
+
+LaTeX Warning: Reference `abschap.144.beg' on page 334 undefined on input line 
+10328.
+
+
+LaTeX Warning: Reference `abschap.144.end' on page 334 undefined on input line 
+10328.
+
+[334
+
+
+] [335] [336]
+
+LaTeX Warning: Reference `abschap.145.beg' on page 337 undefined on input line 
+10457.
+
+
+LaTeX Warning: Reference `abschap.145.end' on page 337 undefined on input line 
+10457.
+
+[337
+
+
+]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [338]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [339]
+
+LaTeX Warning: Reference `abschap.146.beg' on page 340 undefined on input line 
+10520.
+
+
+LaTeX Warning: Reference `abschap.146.end' on page 340 undefined on input line 
+10520.
+
+[340
+
+
+] [341]
+
+LaTeX Warning: Reference `abschap.147.beg' on page 342 undefined on input line 
+10593.
+
+
+LaTeX Warning: Reference `abschap.147.end' on page 342 undefined on input line 
+10593.
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+
+Overfull \hbox (26.4968pt too wide) in paragraph at lines 10621--10621
+[]\OT1/cmtt/m/n/10 Of people like us, wakeful dreamers. I pass them on the sunl
+it streets[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 10631--10631
+[]\OT1/cmtt/m/n/10 C9                  D4                                      
+  D9sus4  C9 D4[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ú in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ù in font cmtt10!
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 10633--10633
+[]\OT1/cmtt/m/n/10 C9                        D4                            D9su
+s4   C9   D4 G[] 
+ []
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 10634--10634
+[]\OT1/cmtt/m/n/10 Still everybody says that if they had the chance theyd fly  
+    like we do.[] 
+ []
+
+[342
+
+
+]
+
+LaTeX Warning: Reference `abschap.148.beg' on page 343 undefined on input line 
+10640.
+
+
+LaTeX Warning: Reference `abschap.148.end' on page 343 undefined on input line 
+10640.
+
+[343
+
+
+]
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 10666--10666
+[]\OT1/cmtt/m/n/10 I laughed and smiled and didn't say "I am a bit afraid to be
+ here."[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 10682--10682
+[]\OT1/cmtt/m/n/10 the fingerprints and dust... but I've begun to trust the vie
+w here.[] 
+ []
+
+[344] [345]
+
+LaTeX Warning: Reference `abschap.149.beg' on page 346 undefined on input line 
+10695.
+
+
+LaTeX Warning: Reference `abschap.149.end' on page 346 undefined on input line 
+10695.
+
+[346
+
+
+]
+Overfull \hbox (157.74565pt too wide) in paragraph at lines 10756--10756
+[]\OT1/cmtt/m/n/10 Outro (x as many as you want, and make sure to rock the f***
+ out. start quiet and build it up):[] 
+ []
+
+[347]
+
+LaTeX Warning: Reference `abschap.150.beg' on page 348 undefined on input line 
+10768.
+
+
+LaTeX Warning: Reference `abschap.150.end' on page 348 undefined on input line 
+10768.
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 10770--10770
+[]\OT1/cmtt/m/n/10 F               C           Am            C                 
+    C[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 10772--10772
+[]\OT1/cmtt/m/n/10 F               C           Am            C                 
+    C[] 
+ []
+
+
+Overfull \hbox (84.24629pt too wide) in paragraph at lines 10787--10787
+[]\OT1/cmtt/m/n/10 F                       C                       Am          
+                    C[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 10789--10789
+[]\OT1/cmtt/m/n/10 F (Straight strum)      (stop)                              
+    C[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 10791--10791
+[]\OT1/cmtt/m/n/10 F (straight strum)      (stop)                              
+    C[] 
+ []
+
+[348
+
+
+] [349] [350]
+
+LaTeX Warning: Reference `abschap.151.beg' on page 351 undefined on input line 
+10900.
+
+
+LaTeX Warning: Reference `abschap.151.end' on page 351 undefined on input line 
+10900.
+
+[351
+
+
+] [352] [353]
+
+LaTeX Warning: Reference `abschap.152.beg' on page 354 undefined on input line 
+10985.
+
+
+LaTeX Warning: Reference `abschap.152.end' on page 354 undefined on input line 
+10985.
+
+[354
+
+
+]
+
+LaTeX Warning: Reference `abschap.153.beg' on page 355 undefined on input line 
+11031.
+
+
+LaTeX Warning: Reference `abschap.153.end' on page 355 undefined on input line 
+11031.
+
+[355
+
+
+] [356] [357] [358] [359]
+
+LaTeX Warning: Reference `abschap.154.beg' on page 360 undefined on input line 
+11210.
+
+
+LaTeX Warning: Reference `abschap.154.end' on page 360 undefined on input line 
+11210.
+
+[360
+
+
+] [361]
+
+LaTeX Warning: Reference `abschap.155.beg' on page 362 undefined on input line 
+11303.
+
+
+LaTeX Warning: Reference `abschap.155.end' on page 362 undefined on input line 
+11303.
+
+[362
+
+
+] [363] [364]
+
+LaTeX Warning: Reference `abschap.156.beg' on page 365 undefined on input line 
+11413.
+
+
+LaTeX Warning: Reference `abschap.156.end' on page 365 undefined on input line 
+11413.
+
+[365
+
+
+] [366] [367]
+
+LaTeX Warning: Reference `abschap.157.beg' on page 368 undefined on input line 
+11491.
+
+
+LaTeX Warning: Reference `abschap.157.end' on page 368 undefined on input line 
+11491.
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+[368
+
+
+]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [369]
+
+LaTeX Warning: Reference `abschap.158.beg' on page 370 undefined on input line 
+11578.
+
+
+LaTeX Warning: Reference `abschap.158.end' on page 370 undefined on input line 
+11578.
+
+[370
+
+
+] [371]
+
+LaTeX Warning: Reference `abschap.159.beg' on page 372 undefined on input line 
+11658.
+
+
+LaTeX Warning: Reference `abschap.159.end' on page 372 undefined on input line 
+11658.
+
+[372
+
+
+] [373] [374]
+
+LaTeX Warning: Reference `abschap.160.beg' on page 375 undefined on input line 
+11761.
+
+
+LaTeX Warning: Reference `abschap.160.end' on page 375 undefined on input line 
+11761.
+
+[375
+
+
+]
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 11780--11780
+[]\OT1/cmtt/m/n/10 Warms the bitter heart and heartache till the east of eden's
+ gone[] 
+ []
+
+[376]
+
+LaTeX Warning: Reference `abschap.161.beg' on page 377 undefined on input line 
+11794.
+
+
+LaTeX Warning: Reference `abschap.161.end' on page 377 undefined on input line 
+11794.
+
+[377
+
+
+] [378] [379] [380]
+
+LaTeX Warning: Reference `abschap.162.beg' on page 381 undefined on input line 
+11923.
+
+
+LaTeX Warning: Reference `abschap.162.end' on page 381 undefined on input line 
+11923.
+
+[381
+
+
+] [382]
+
+LaTeX Warning: Reference `abschap.163.beg' on page 383 undefined on input line 
+11965.
+
+
+LaTeX Warning: Reference `abschap.163.end' on page 383 undefined on input line 
+11965.
+
+[383
+
+
+] [384] [385] [386]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [387] [388] [389]
+
+LaTeX Warning: Reference `abschap.164.beg' on page 390 undefined on input line 
+12199.
+
+
+LaTeX Warning: Reference `abschap.164.end' on page 390 undefined on input line 
+12199.
+
+[390
+
+
+]
+
+LaTeX Warning: Reference `abschap.165.beg' on page 391 undefined on input line 
+12248.
+
+
+LaTeX Warning: Reference `abschap.165.end' on page 391 undefined on input line 
+12248.
+
+[391
+
+
+]
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 12283--12283
+[]                            \OT1/cmtt/m/n/10 Am                              
+    D[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 12284--12284
+[]\OT1/cmtt/m/n/10 now you're eyes aint moving now, they just lay there in thei
+r cloud[] 
+ []
+
+[392]
+Overfull \hbox (68.49643pt too wide) in paragraph at lines 12298--12298
+[]             \OT1/cmtt/m/n/10 C                        Am                    
+            D    C[] 
+ []
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 12299--12299
+[]\OT1/cmtt/m/n/10 Made for his lover who's floating and choking with her hands
+ across her face[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 12306--12306
+[]                            \OT1/cmtt/m/n/10 Am                              
+    D[] 
+ []
+
+
+Overfull \hbox (57.99652pt too wide) in paragraph at lines 12307--12307
+[]\OT1/cmtt/m/n/10 now you're eyes ain't moving now, they just lay there in the
+ir clouououououd[] 
+ []
+
+[393]
+
+LaTeX Warning: Reference `abschap.166.beg' on page 394 undefined on input line 
+12331.
+
+
+LaTeX Warning: Reference `abschap.166.end' on page 394 undefined on input line 
+12331.
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+[394
+
+
+]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [395]
+
+LaTeX Warning: Reference `abschap.167.beg' on page 396 undefined on input line 
+12383.
+
+
+LaTeX Warning: Reference `abschap.167.end' on page 396 undefined on input line 
+12383.
+
+[396
+
+
+] [397]
+
+LaTeX Warning: Reference `abschap.168.beg' on page 398 undefined on input line 
+12443.
+
+
+LaTeX Warning: Reference `abschap.168.end' on page 398 undefined on input line 
+12443.
+
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+[398
+
+
+]
+
+LaTeX Warning: Reference `abschap.169.beg' on page 399 undefined on input line 
+12472.
+
+
+LaTeX Warning: Reference `abschap.169.end' on page 399 undefined on input line 
+12472.
+
+[399
+
+
+]
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+Missing character: There is no ‚ in font cmtt10!
+Missing character: There is no Ä in font cmtt10!
+Missing character: There is no ô in font cmtt10!
+ [400]
+
+LaTeX Warning: Reference `abschap.170.beg' on page 401 undefined on input line 
+12518.
+
+
+LaTeX Warning: Reference `abschap.170.end' on page 401 undefined on input line 
+12518.
+
+[401
+
+
+] (./banjo_chords.tex <chords/Abbjo1.png, id=1298, 2384.91pt x 592.2125pt>
+File: chords/Abbjo1.png Graphic file (type png)
+
+<use chords/Abbjo1.png>
+Package pdftex.def Info: chords/Abbjo1.png used on input line 3.
+(pdftex.def)             Requested size: 357.72107pt x 88.82803pt.
+ <chords/Abbjo2.png, id=1299, 2409.0pt x 592.2125pt>
+File: chords/Abbjo2.png Graphic file (type png)
+
+<use chords/Abbjo2.png>
+Package pdftex.def Info: chords/Abbjo2.png used on input line 4.
+(pdftex.def)             Requested size: 361.33441pt x 88.82803pt.
+
+Overfull \hbox (16.72107pt too wide) in paragraph at lines 3--5
+[]
+ []
+
+
+Overfull \hbox (20.33441pt too wide) in paragraph at lines 3--5
+[] 
+ []
+
+<chords/Abjo1.png, id=1300, 2493.315pt x 628.3475pt>
+File: chords/Abjo1.png Graphic file (type png)
+ <use chords/Abjo1.png>
+Package pdftex.def Info: chords/Abjo1.png used on input line 6.
+(pdftex.def)             Requested size: 373.98111pt x 94.24805pt.
+
+<chords/Abjo2.png, id=1301, 2493.315pt x 628.3475pt>
+File: chords/Abjo2.png Graphic file (type png)
+ <use chords/Abjo2.png>
+Package pdftex.def Info: chords/Abjo2.png used on input line 7.
+(pdftex.def)             Requested size: 373.98111pt x 94.24805pt.
+
+Overfull \hbox (47.98111pt too wide) in paragraph at lines 6--8
+[][]
+ []
+
+
+Overfull \hbox (32.98111pt too wide) in paragraph at lines 6--8
+[] 
+ []
+
+<chords/Bbbjo1.png, id=1302, 2493.315pt x 664.4825pt>
+File: chords/Bbbjo1.png Graphic file (type png)
+ <use chords/Bbbjo1.png>
+Package pdftex.def Info: chords/Bbbjo1.png used on input line 9.
+(pdftex.def)             Requested size: 373.98111pt x 99.66806pt.
+
+<chords/Bbbjo2.png, id=1303, 2493.315pt x 664.4825pt>
+File: chords/Bbbjo2.png Graphic file (type png)
+ <use chords/Bbbjo2.png>
+Package pdftex.def Info: chords/Bbbjo2.png used on input line 10.
+(pdftex.def)             Requested size: 373.98111pt x 99.66806pt.
+
+Overfull \hbox (47.98111pt too wide) in paragraph at lines 9--11
+[][]
+ []
+
+
+Overfull \hbox (32.98111pt too wide) in paragraph at lines 9--11
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [402 <./chords/Abbjo1.png> <./chords/Abbjo2.png> <./chords/Abjo1.png> <./chord
+s/Abjo2.png>] <chords/Bbjo1.png, id=1312, 2601.72pt x 592.2125pt>
+File: chords/Bbjo1.png Graphic file (type png)
+ <use chords/Bbjo1.png>
+Package pdftex.def Info: chords/Bbjo1.png used on input line 12.
+(pdftex.def)             Requested size: 390.24117pt x 88.82803pt.
+
+<chords/Bbjo2.png, id=1313, 2493.315pt x 592.2125pt>
+File: chords/Bbjo2.png Graphic file (type png)
+ <use chords/Bbjo2.png>
+Package pdftex.def Info: chords/Bbjo2.png used on input line 13.
+(pdftex.def)             Requested size: 373.98111pt x 88.82803pt.
+
+Overfull \hbox (64.24117pt too wide) in paragraph at lines 12--14
+[][]
+ []
+
+
+Overfull \hbox (32.98111pt too wide) in paragraph at lines 12--14
+[] 
+ []
+
+<chords/Cbjo1.png, id=1314, 2493.315pt x 592.2125pt>
+File: chords/Cbjo1.png Graphic file (type png)
+ <use chords/Cbjo1.png>
+Package pdftex.def Info: chords/Cbjo1.png used on input line 15.
+(pdftex.def)             Requested size: 373.98111pt x 88.82803pt.
+
+<chords/Cbjo2.png, id=1315, 2493.315pt x 592.2125pt>
+File: chords/Cbjo2.png Graphic file (type png)
+ <use chords/Cbjo2.png>
+Package pdftex.def Info: chords/Cbjo2.png used on input line 16.
+(pdftex.def)             Requested size: 373.98111pt x 88.82803pt.
+
+Overfull \hbox (47.98111pt too wide) in paragraph at lines 15--17
+[][]
+ []
+
+
+Overfull \hbox (32.98111pt too wide) in paragraph at lines 15--17
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [403 <./chords/Bbbjo1.png> <./chords/Bbbjo2.png> <./chords/Bbjo1.png> <./chord
+s/Bbjo2.png>] <chords/Csbjo1.png, id=1323, 2384.91pt x 628.3475pt>
+File: chords/Csbjo1.png Graphic file (type png)
+
+<use chords/Csbjo1.png>
+Package pdftex.def Info: chords/Csbjo1.png used on input line 18.
+(pdftex.def)             Requested size: 357.72107pt x 94.24805pt.
+ <chords/Csbjo2.png, id=1324, 2384.91pt x 628.3475pt>
+File: chords/Csbjo2.png Graphic file (type png)
+
+<use chords/Csbjo2.png>
+Package pdftex.def Info: chords/Csbjo2.png used on input line 19.
+(pdftex.def)             Requested size: 357.72107pt x 94.24805pt.
+
+Overfull \hbox (31.72107pt too wide) in paragraph at lines 18--20
+[][]
+ []
+
+
+Overfull \hbox (16.72107pt too wide) in paragraph at lines 18--20
+[] 
+ []
+
+<chords/Dbjo1.png, id=1325, 2384.91pt x 556.0775pt>
+File: chords/Dbjo1.png Graphic file (type png)
+ <use chords/Dbjo1.png>
+Package pdftex.def Info: chords/Dbjo1.png used on input line 21.
+(pdftex.def)             Requested size: 357.72107pt x 83.40802pt.
+
+<chords/Dbjo2.png, id=1326, 2384.91pt x 556.0775pt>
+File: chords/Dbjo2.png Graphic file (type png)
+ <use chords/Dbjo2.png>
+Package pdftex.def Info: chords/Dbjo2.png used on input line 22.
+(pdftex.def)             Requested size: 357.72107pt x 83.40802pt.
+
+Overfull \hbox (31.72107pt too wide) in paragraph at lines 21--23
+[][]
+ []
+
+
+Overfull \hbox (16.72107pt too wide) in paragraph at lines 21--23
+[] 
+ []
+
+<chords/Ebbjo1.png, id=1327, 2529.45pt x 556.0775pt>
+File: chords/Ebbjo1.png Graphic file (type png)
+ <use chords/Ebbjo1.png>
+Package pdftex.def Info: chords/Ebbjo1.png used on input line 24.
+(pdftex.def)             Requested size: 379.40114pt x 83.40802pt.
+
+<chords/Ebbjo2.png, id=1328, 2384.91pt x 628.3475pt>
+File: chords/Ebbjo2.png Graphic file (type png)
+ <use chords/Ebbjo2.png>
+Package pdftex.def Info: chords/Ebbjo2.png used on input line 25.
+(pdftex.def)             Requested size: 357.72107pt x 94.24805pt.
+
+Overfull \hbox (53.40114pt too wide) in paragraph at lines 24--26
+[][]
+ []
+
+
+Overfull \hbox (16.72107pt too wide) in paragraph at lines 24--26
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [404 <./chords/Cbjo1.png> <./chords/Cbjo2.png> <./chords/Csbjo1.png> <./chords
+/Csbjo2.png> <./chords/Dbjo1.png> <./chords/Dbjo2.png>]
+<chords/Ebjo1.png, id=1338, 2384.91pt x 556.0775pt>
+File: chords/Ebjo1.png Graphic file (type png)
+ <use chords/Ebjo1.png>
+Package pdftex.def Info: chords/Ebjo1.png used on input line 27.
+(pdftex.def)             Requested size: 357.72107pt x 83.40802pt.
+
+<chords/Ebjo2.png, id=1339, 2384.91pt x 592.2125pt>
+File: chords/Ebjo2.png Graphic file (type png)
+ <use chords/Ebjo2.png>
+Package pdftex.def Info: chords/Ebjo2.png used on input line 28.
+(pdftex.def)             Requested size: 357.72107pt x 88.82803pt.
+
+Overfull \hbox (31.72107pt too wide) in paragraph at lines 27--29
+[][]
+ []
+
+
+Overfull \hbox (16.72107pt too wide) in paragraph at lines 27--29
+[] 
+ []
+
+<chords/Fbjo1.png, id=1340, 2384.91pt x 592.2125pt>
+File: chords/Fbjo1.png Graphic file (type png)
+ <use chords/Fbjo1.png>
+Package pdftex.def Info: chords/Fbjo1.png used on input line 30.
+(pdftex.def)             Requested size: 357.72107pt x 88.82803pt.
+
+<chords/Fbjo2.png, id=1341, 2409.0pt x 592.2125pt>
+File: chords/Fbjo2.png Graphic file (type png)
+ <use chords/Fbjo2.png>
+Package pdftex.def Info: chords/Fbjo2.png used on input line 31.
+(pdftex.def)             Requested size: 361.33441pt x 88.82803pt.
+
+Overfull \hbox (31.72107pt too wide) in paragraph at lines 30--32
+[][]
+ []
+
+
+Overfull \hbox (20.33441pt too wide) in paragraph at lines 30--32
+[] 
+ []
+
+<chords/Fsbjo1.png, id=1342, 2384.91pt x 592.2125pt>
+File: chords/Fsbjo1.png Graphic file (type png)
+ <use chords/Fsbjo1.png>
+Package pdftex.def Info: chords/Fsbjo1.png used on input line 33.
+(pdftex.def)             Requested size: 357.72107pt x 88.82803pt.
+
+<chords/Fsbjo2.png, id=1343, 2409.0pt x 592.2125pt>
+File: chords/Fsbjo2.png Graphic file (type png)
+ <use chords/Fsbjo2.png>
+Package pdftex.def Info: chords/Fsbjo2.png used on input line 34.
+(pdftex.def)             Requested size: 361.33441pt x 88.82803pt.
+
+Overfull \hbox (31.72107pt too wide) in paragraph at lines 33--35
+[][]
+ []
+
+
+Overfull \hbox (20.33441pt too wide) in paragraph at lines 33--35
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [405 <./chords/Ebbjo1.png> <./chords/Ebbjo2.png> <./chords/Ebjo1.png> <./chord
+s/Ebjo2.png> <./chords/Fbjo1.png> <./chords/Fbjo2.png>]
+<chords/Gbjo1.png, id=1353, 2384.91pt x 628.3475pt>
+File: chords/Gbjo1.png Graphic file (type png)
+ <use chords/Gbjo1.png>
+Package pdftex.def Info: chords/Gbjo1.png used on input line 36.
+(pdftex.def)             Requested size: 357.72107pt x 94.24805pt.
+
+<chords/Gbjo2.png, id=1354, 2409.0pt x 628.3475pt>
+File: chords/Gbjo2.png Graphic file (type png)
+ <use chords/Gbjo2.png>
+Package pdftex.def Info: chords/Gbjo2.png used on input line 37.
+(pdftex.def)             Requested size: 361.33441pt x 94.24805pt.
+
+Overfull \hbox (31.72107pt too wide) in paragraph at lines 36--38
+[][]
+ []
+
+
+Overfull \hbox (20.33441pt too wide) in paragraph at lines 36--38
+[] 
+ []
+
+) [406 <./chords/Fsbjo1.png> <./chords/Fsbjo2.png> <./chords/Gbjo1.png> <./chor
+ds/Gbjo2.png>]
+
+LaTeX Warning: Reference `abschap.171.beg' on page 407 undefined on input line 
+12521.
+
+
+LaTeX Warning: Reference `abschap.171.end' on page 407 undefined on input line 
+12521.
+
+[407
+
+
+] (./guitar_chords.tex
+<chords/Abgtr1.png, id=1365, 2457.18pt x 592.2125pt>
+File: chords/Abgtr1.png Graphic file (type png)
+ <use chords/Abgtr1.png>
+Package pdftex.def Info: chords/Abgtr1.png used on input line 3.
+(pdftex.def)             Requested size: 368.5611pt x 88.82803pt.
+
+<chords/Abgtr2.png, id=1366, 2421.045pt x 592.2125pt>
+File: chords/Abgtr2.png Graphic file (type png)
+ <use chords/Abgtr2.png>
+Package pdftex.def Info: chords/Abgtr2.png used on input line 4.
+(pdftex.def)             Requested size: 363.14108pt x 88.82803pt.
+
+Overfull \hbox (27.5611pt too wide) in paragraph at lines 3--5
+[]
+ []
+
+
+Overfull \hbox (22.14108pt too wide) in paragraph at lines 3--5
+[] 
+ []
+
+<chords/Agtr1.png, id=1367, 2457.18pt x 556.0775pt>
+File: chords/Agtr1.png Graphic file (type png)
+ <use chords/Agtr1.png>
+Package pdftex.def Info: chords/Agtr1.png used on input line 6.
+(pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
+
+<chords/Agtr2.png, id=1368, 2457.18pt x 556.0775pt>
+File: chords/Agtr2.png Graphic file (type png)
+ <use chords/Agtr2.png>
+Package pdftex.def Info: chords/Agtr2.png used on input line 7.
+(pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
+
+Overfull \hbox (42.5611pt too wide) in paragraph at lines 6--8
+[][]
+ []
+
+
+Overfull \hbox (27.5611pt too wide) in paragraph at lines 6--8
+[] 
+ []
+
+<chords/Bbgtr1.png, id=1369, 2457.18pt x 556.0775pt>
+File: chords/Bbgtr1.png Graphic file (type png)
+ <use chords/Bbgtr1.png>
+Package pdftex.def Info: chords/Bbgtr1.png used on input line 9.
+(pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
+
+<chords/Bbgtr2.png, id=1370, 2457.18pt x 556.0775pt>
+File: chords/Bbgtr2.png Graphic file (type png)
+ <use chords/Bbgtr2.png>
+Package pdftex.def Info: chords/Bbgtr2.png used on input line 10.
+(pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
+
+Overfull \hbox (42.5611pt too wide) in paragraph at lines 9--11
+[][]
+ []
+
+
+Overfull \hbox (27.5611pt too wide) in paragraph at lines 9--11
+[] 
+ []
+
+<chords/Bgtr1.png, id=1371, 2457.18pt x 556.0775pt>
+File: chords/Bgtr1.png Graphic file (type png)
+ <use chords/Bgtr1.png>
+Package pdftex.def Info: chords/Bgtr1.png used on input line 12.
+(pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
+
+<chords/Bgtr2.png, id=1372, 2457.18pt x 556.0775pt>
+File: chords/Bgtr2.png Graphic file (type png)
+ <use chords/Bgtr2.png>
+Package pdftex.def Info: chords/Bgtr2.png used on input line 13.
+(pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
+
+Overfull \hbox (42.5611pt too wide) in paragraph at lines 12--14
+[][]
+ []
+
+
+Overfull \hbox (27.5611pt too wide) in paragraph at lines 12--14
+[] 
+ []
+
+
+Underfull \vbox (badness 3646) has occurred while \output is active []
+
+ [408 <./chords/Abgtr1.png> <./chords/Abgtr2.png> <./chords/Agtr1.png> <./chord
+s/Agtr2.png> <./chords/Bbgtr1.png> <./chords/Bbgtr2.png>]
+<chords/Cgtr1.png, id=1383, 2457.18pt x 556.0775pt>
+File: chords/Cgtr1.png Graphic file (type png)
+ <use chords/Cgtr1.png>
+Package pdftex.def Info: chords/Cgtr1.png used on input line 15.
+(pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
+
+<chords/Cgtr2.png, id=1384, 2457.18pt x 556.0775pt>
+File: chords/Cgtr2.png Graphic file (type png)
+ <use chords/Cgtr2.png>
+Package pdftex.def Info: chords/Cgtr2.png used on input line 16.
+(pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
+
+Overfull \hbox (42.5611pt too wide) in paragraph at lines 15--17
+[][]
+ []
+
+
+Overfull \hbox (27.5611pt too wide) in paragraph at lines 15--17
+[] 
+ []
+
+<chords/Csgtr1.png, id=1385, 2421.045pt x 592.2125pt>
+File: chords/Csgtr1.png Graphic file (type png)
+ <use chords/Csgtr1.png>
+Package pdftex.def Info: chords/Csgtr1.png used on input line 18.
+(pdftex.def)             Requested size: 363.14108pt x 88.82803pt.
+
+<chords/Csgtr2.png, id=1386, 2425.06pt x 592.2125pt>
+File: chords/Csgtr2.png Graphic file (type png)
+ <use chords/Csgtr2.png>
+Package pdftex.def Info: chords/Csgtr2.png used on input line 19.
+(pdftex.def)             Requested size: 363.7433pt x 88.82803pt.
+
+Overfull \hbox (37.14108pt too wide) in paragraph at lines 18--20
+[][]
+ []
+
+
+Overfull \hbox (22.7433pt too wide) in paragraph at lines 18--20
+[] 
+ []
+
+<chords/Dgtr1.png, id=1387, 2421.045pt x 556.0775pt>
+File: chords/Dgtr1.png Graphic file (type png)
+ <use chords/Dgtr1.png>
+Package pdftex.def Info: chords/Dgtr1.png used on input line 21.
+(pdftex.def)             Requested size: 363.14108pt x 83.40802pt.
+
+<chords/Dgtr2.png, id=1388, 2425.06pt x 556.0775pt>
+File: chords/Dgtr2.png Graphic file (type png)
+ <use chords/Dgtr2.png>
+Package pdftex.def Info: chords/Dgtr2.png used on input line 22.
+(pdftex.def)             Requested size: 363.7433pt x 83.40802pt.
+
+Overfull \hbox (37.14108pt too wide) in paragraph at lines 21--23
+[][]
+ []
+
+
+Overfull \hbox (22.7433pt too wide) in paragraph at lines 21--23
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [409 <./chords/Bgtr1.png> <./chords/Bgtr2.png> <./chords/Cgtr1.png> <./chords/
+Cgtr2.png> <./chords/Csgtr1.png> <./chords/Csgtr2.png>]
+<chords/Ebgtr1.png, id=1398, 2421.045pt x 592.2125pt>
+File: chords/Ebgtr1.png Graphic file (type png)
+ <use chords/Ebgtr1.png>
+Package pdftex.def Info: chords/Ebgtr1.png used on input line 24.
+(pdftex.def)             Requested size: 363.14108pt x 88.82803pt.
+
+<chords/Ebgtr2.png, id=1399, 2425.06pt x 628.3475pt>
+File: chords/Ebgtr2.png Graphic file (type png)
+ <use chords/Ebgtr2.png>
+Package pdftex.def Info: chords/Ebgtr2.png used on input line 25.
+(pdftex.def)             Requested size: 363.7433pt x 94.24805pt.
+
+Overfull \hbox (37.14108pt too wide) in paragraph at lines 24--26
+[][]
+ []
+
+
+Overfull \hbox (22.7433pt too wide) in paragraph at lines 24--26
+[] 
+ []
+
+<chords/Egtr1.png, id=1400, 2421.045pt x 556.0775pt>
+File: chords/Egtr1.png Graphic file (type png)
+ <use chords/Egtr1.png>
+Package pdftex.def Info: chords/Egtr1.png used on input line 27.
+(pdftex.def)             Requested size: 363.14108pt x 83.40802pt.
+
+<chords/Egtr2.png, id=1401, 2425.06pt x 556.0775pt>
+File: chords/Egtr2.png Graphic file (type png)
+ <use chords/Egtr2.png>
+Package pdftex.def Info: chords/Egtr2.png used on input line 28.
+(pdftex.def)             Requested size: 363.7433pt x 83.40802pt.
+
+Overfull \hbox (37.14108pt too wide) in paragraph at lines 27--29
+[][]
+ []
+
+
+Overfull \hbox (22.7433pt too wide) in paragraph at lines 27--29
+[] 
+ []
+
+<chords/Fgtr1.png, id=1402, 2457.18pt x 592.2125pt>
+File: chords/Fgtr1.png Graphic file (type png)
+ <use chords/Fgtr1.png>
+Package pdftex.def Info: chords/Fgtr1.png used on input line 30.
+(pdftex.def)             Requested size: 368.5611pt x 88.82803pt.
+
+<chords/Fgtr2.png, id=1403, 2421.045pt x 592.2125pt>
+File: chords/Fgtr2.png Graphic file (type png)
+ <use chords/Fgtr2.png>
+Package pdftex.def Info: chords/Fgtr2.png used on input line 31.
+(pdftex.def)             Requested size: 363.14108pt x 88.82803pt.
+
+Overfull \hbox (42.5611pt too wide) in paragraph at lines 30--32
+[][]
+ []
+
+
+Overfull \hbox (22.14108pt too wide) in paragraph at lines 30--32
+[] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [410 <./chords/Dgtr1.png> <./chords/Dgtr2.png> <./chords/Ebgtr1.png> <./chords
+/Ebgtr2.png> <./chords/Egtr1.png> <./chords/Egtr2.png>]
+<chords/Fsgtr1.png, id=1413, 2457.18pt x 592.2125pt>
+File: chords/Fsgtr1.png Graphic file (type png)
+ <use chords/Fsgtr1.png>
+Package pdftex.def Info: chords/Fsgtr1.png used on input line 33.
+(pdftex.def)             Requested size: 368.5611pt x 88.82803pt.
+
+<chords/Fsgtr2.png, id=1414, 2421.045pt x 592.2125pt>
+File: chords/Fsgtr2.png Graphic file (type png)
+ <use chords/Fsgtr2.png>
+Package pdftex.def Info: chords/Fsgtr2.png used on input line 34.
+(pdftex.def)             Requested size: 363.14108pt x 88.82803pt.
+
+Overfull \hbox (42.5611pt too wide) in paragraph at lines 33--35
+[][]
+ []
+
+
+Overfull \hbox (22.14108pt too wide) in paragraph at lines 33--35
+[] 
+ []
+
+<chords/Ggtr1.png, id=1415, 2457.18pt x 628.3475pt>
+File: chords/Ggtr1.png Graphic file (type png)
+ <use chords/Ggtr1.png>
+Package pdftex.def Info: chords/Ggtr1.png used on input line 36.
+(pdftex.def)             Requested size: 368.5611pt x 94.24805pt.
+
+<chords/Ggtr2.png, id=1416, 2421.045pt x 592.2125pt>
+File: chords/Ggtr2.png Graphic file (type png)
+ <use chords/Ggtr2.png>
+Package pdftex.def Info: chords/Ggtr2.png used on input line 37.
+(pdftex.def)             Requested size: 363.14108pt x 88.82803pt.
+
+Overfull \hbox (42.5611pt too wide) in paragraph at lines 36--38
+[][]
+ []
+
+
+Overfull \hbox (22.14108pt too wide) in paragraph at lines 36--38
+[] 
+ []
+
+) [411 <./chords/Fgtr1.png> <./chords/Fgtr2.png> <./chords/Fsgtr1.png> <./chord
+s/Fsgtr2.png> <./chords/Ggtr1.png> <./chords/Ggtr2.png>]
+\tf@toc=\write4
+\openout4 = `songbook.toc'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 12524.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 12524.
+ (./songbook.aux)
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 12524.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 12524.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 12524.
+ ) 
+Here is how much of TeX's memory you used:
+ 7105 strings out of 493108
+ 101662 string characters out of 6140724
+ 196402 words of memory out of 5000000
+ 10468 multiletter control sequences out of 15000+600000
+ 5364 words of font info for 20 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 42i,18n,45p,241b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/font
+s/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmtt10.pfb>
+Output written on songbook.pdf (412 pages, 613112 bytes).
+PDF statistics:
+ 1456 PDF objects out of 1728 (max. 8388607)
+ 928 compressed objects within 10 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 261 words of extra memory for PDF output out of 10000 (max. 10000000)
+
