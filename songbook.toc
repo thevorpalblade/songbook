@@ -187,5 +187,16 @@
 \contentsline {chapter}{\chapternumberline {186}When U love somebody}{394}
 \contentsline {chapter}{\chapternumberline {187}Welcome Home}{396}
 \contentsline {chapter}{\chapternumberline {188}Tom Cruise Crazy}{398}
-\contentsline {chapter}{\chapternumberline {189}Banjo Chords}{401}
-\contentsline {chapter}{\chapternumberline {190}Guitar Chords}{406}
+\contentsline {chapter}{\chapternumberline {189}The Things I Say}{402}
+\contentsline {chapter}{\chapternumberline {190}Waltz of the 101st Lightborne}{404}
+\contentsline {chapter}{\chapternumberline {191}The Wreck of the Edmund Fitzgerald}{408}
+\contentsline {chapter}{\chapternumberline {192}Pancho and Lefty}{412}
+\contentsline {chapter}{\chapternumberline {193}Leaving On A Jet Plane}{416}
+\contentsline {chapter}{\chapternumberline {194}Fire and Rain}{418}
+\contentsline {chapter}{\chapternumberline {195}Operator (That's not the way it Feels)}{420}
+\contentsline {chapter}{\chapternumberline {196}Photographs and Memories}{422}
+\contentsline {chapter}{\chapternumberline {197}I got a Name}{424}
+\contentsline {chapter}{\chapternumberline {198}For The Widows In Paradise; For The Fatherless In Ypsilanti}{426}
+\contentsline {chapter}{\chapternumberline {199}}{428}
+\contentsline {chapter}{\chapternumberline {200}Banjo Chords}{430}
+\contentsline {chapter}{\chapternumberline {201}Guitar Chords}{436}

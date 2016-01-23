@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014/Arch Linux) (preloaded format=pdflatex 2015.5.29)  22 AUG 2015 13:23
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Arch Linux) (preloaded format=pdflatex 2015.11.17)  23 JAN 2016 13:11
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **songbook.tex
 (./songbook.tex
-LaTeX2e <2014/05/01>
-Babel <3.9l> and hyphenation patterns for 79 languages loaded.
+LaTeX2e <2015/10/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 79 languages loaded.
 (/usr/share/texmf-dist/tex/latex/memoir/memoir.cls
-Document Class: memoir 2015/03/05 v3.7c configurable book, report, article docu
+Document Class: memoir 2015/07/08 v3.7e configurable book, report, article docu
 ment class
 \onelineskip=\skip41
 \lxvchars=\skip42
@@ -35,11 +35,7 @@ Package ifluatex Info: LuaTeX not detected.
 \trimedge=\skip47
 
 (/usr/share/texmf-dist/tex/latex/base/leqno.clo
-File: leqno.clo 1998/08/17 v1.1c Standard LaTeX option (left equation numbers)
-)
-(/usr/share/texmf-dist/tex/latex/etex-pkg/etex.sty
-Package: etex 2015/03/02 v2.1 eTeX basic definition package (PEB,DPC)
-\et@xins=\count81
+File: leqno.clo 2015/03/31 v1.1i Standard LaTeX option (left equation numbers)
 )
 (/usr/share/texmf-dist/tex/latex/memoir/mem10.clo
 File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
@@ -54,20 +50,20 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \mem@maxheadheight=\skip55
 \mem@maxfootheight=\skip56
 \headwidth=\skip57
-\c@storedpagenumber=\count82
+\c@storedpagenumber=\count81
 \memPD=\dimen102
 \m@mabparskip=\skip58
 \thanksmarkwidth=\skip59
 \thanksmarksep=\skip60
 \droptitle=\skip61
-\c@book=\count83
-\c@part=\count84
-\c@chapter=\count85
-\c@section=\count86
-\c@subsection=\count87
-\c@subsubsection=\count88
-\c@paragraph=\count89
-\c@subparagraph=\count90
+\c@book=\count82
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
 \beforechapskip=\skip62
 \midchapskip=\skip63
 \afterchapskip=\skip64
@@ -89,8 +85,8 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \beforesubparaskip=\skip80
 \aftersubparaskip=\skip81
 \pfbreakskip=\skip82
-\c@@ppsavesec=\count91
-\c@@ppsaveapp=\count92
+\c@@ppsavesec=\count90
+\c@@ppsaveapp=\count91
 \ragrparindent=\dimen103
 \everylistparindent=\dimen104
 \parsepi=\skip83
@@ -112,10 +108,10 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \absrightindent=\skip97
 \absparindent=\skip98
 \absparsep=\skip99
-\c@vslineno=\count93
-\c@poemline=\count94
-\c@modulo@vs=\count95
-\c@memfvsline=\count96
+\c@vslineno=\count92
+\c@poemline=\count93
+\c@modulo@vs=\count94
+\c@memfvsline=\count95
 \vleftskip=\skip100
 \vrightskip=\skip101
 \stanzaskip=\skip102
@@ -123,11 +119,11 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \vgap=\skip104
 \vindent=\skip105
 \vleftmargin=\dimen106
-\c@verse=\count97
-\c@chrsinstr=\count98
+\c@verse=\count96
+\c@chrsinstr=\count97
 \beforepoemtitleskip=\skip106
 \afterpoemtitleskip=\skip107
-\c@poem=\count99
+\c@poem=\count98
 \beforePoemTitleskip=\skip108
 \midPoemTitleskip=\skip109
 \afterPoemTitleskip=\skip110
@@ -141,7 +137,7 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \TX@old@col=\dimen111
 \TX@target=\dimen112
 \TX@delta=\dimen113
-\TX@cols=\count100
+\TX@cols=\count99
 \TX@ftn=\toks16
 \heavyrulewidth=\dimen114
 \lightrulewidth=\dimen115
@@ -153,22 +149,22 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \cmidrulesep=\dimen121
 \cmidrulekern=\dimen122
 \defaultaddspace=\dimen123
-\@cmidla=\count101
-\@cmidlb=\count102
+\@cmidla=\count100
+\@cmidlb=\count101
 \@aboverulesep=\dimen124
 \@belowrulesep=\dimen125
-\@thisruleclass=\count103
-\@lastruleclass=\count104
+\@thisruleclass=\count102
+\@lastruleclass=\count103
 \@thisrulewidth=\dimen126
 \ctableftskip=\skip113
 \ctabrightskip=\skip114
-\abovecolumnspenalty=\count105
-\@linestogo=\count106
-\@cellstogo=\count107
-\@cellsincolumn=\count108
+\abovecolumnspenalty=\count104
+\@linestogo=\count105
+\@cellstogo=\count106
+\@cellsincolumn=\count107
 \crtok=\toks17
 \@mincolumnwidth=\dimen127
-\c@newflo@tctr=\count109
+\c@newflo@tctr=\count108
 \mem@margin@floatbox=\box26
 \@contcwidth=\skip115
 \@contindw=\skip116
@@ -180,7 +176,7 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \subfloatbottomskip=\skip122
 \subfloatlabelskip=\skip123
 \subfloatcapmargin=\dimen128
-\c@@contsubnum=\count110
+\c@@contsubnum=\count109
 \m@mscap@capbox=\box27
 \m@mscap@fbox=\box28
 \sidecapsep=\dimen129
@@ -194,8 +190,8 @@ File: mem10.clo 2008/01/30 v0.3 memoir class 10pt size option
 \afterepigraphskip=\skip125
 \epigraphwidth=\skip126
 \epigraphrule=\skip127
-LaTeX Info: Redefining \em on input line 7514.
-LaTeX Info: Redefining \emph on input line 7522.
+LaTeX Info: Redefining \em on input line 7535.
+LaTeX Info: Redefining \emph on input line 7543.
 \tocentryskip=\skip128
 \tocbaseline=\skip129
 \cftparskip=\skip130
@@ -224,17 +220,17 @@ LaTeX Info: Redefining \emph on input line 7522.
 \cftsubparagraphindent=\skip151
 \cftsubparagraphnumwidth=\skip152
 \prechapterprecisshift=\dimen138
-\c@maxsecnumdepth=\count111
+\c@maxsecnumdepth=\count110
 \bibindent=\dimen139
 \bibitemsep=\skip153
 \indexcolsep=\skip154
 \indexrule=\skip155
 \indexmarkstyle=\toks18
-\@indexbox=\insert233
+\@indexbox=\insert199
 \glossarycolsep=\dimen140
 \glossaryrule=\dimen141
 \sideparvshift=\skip156
-\sideins=\insert232
+\sideins=\insert198
 \sidebartopsep=\skip157
 \sidebarhsep=\skip158
 \sidebarvsep=\skip159
@@ -243,64 +239,64 @@ LaTeX Info: Redefining \emph on input line 7522.
 \footmarksep=\skip162
 \footparindent=\skip163
 \footinsdim=\skip164
-\footinsv@r=\insert231
-\@mpfootinsv@r=\insert230
-\m@m@k=\count112
+\footinsv@r=\insert197
+\@mpfootinsv@r=\insert196
+\m@m@k=\count111
 \m@m@h=\dimen142
 \m@mipn@skip=\skip165
-\sidefootins=\insert229
+\sidefootins=\insert195
 \sidefootadjust=\skip166
 \sidefootheight=\skip167
 \sidefoothsep=\skip168
 \sidefootvsep=\skip169
 \sidefootwidth=\skip170
 \m@mdownsf=\skip171
-\c@sidefootnote=\count113
+\c@sidefootnote=\count112
 \sidefootmarkwidth=\skip172
 \sidefootmarksep=\skip173
 \sidefootparindent=\skip174
-\c@pagenote=\count114
-\c@pagenoteshadow=\count115
+\c@pagenote=\count113
+\c@pagenoteshadow=\count114
 \mem@pn@lastkern=\skip175
 \every@verbatim=\toks19
 \afterevery@verbatim=\toks20
 \verbatim@line=\toks21
-\tab@position=\count116
+\tab@position=\count115
 \verbatim@in@stream=\read1
 \verbatimindent=\skip176
 \verbatim@out=\write3
 \bvboxsep=\skip177
-\c@memfbvline=\count117
-\c@bvlinectr=\count118
+\c@memfbvline=\count116
+\c@bvlinectr=\count117
 \bvnumlength=\skip178
 \fb@frw=\dimen143
 \fb@frh=\dimen144
 \FrameRule=\dimen145
 \FrameSep=\dimen146
-\c@cp@cntr=\count119
-LaTeX Info: Redefining \: on input line 11980.
-LaTeX Info: Redefining \! on input line 11982.
-\c@ism@mctr=\count120
-\c@xsm@mctr=\count121
-\c@csm@mctr=\count122
-\c@ksm@mctr=\count123
-\c@xksm@mctr=\count124
-\c@cksm@mctr=\count125
-\c@msm@mctr=\count126
-\c@xmsm@mctr=\count127
-\c@cmsm@mctr=\count128
-\c@bsm@mctr=\count129
-\c@workm@mctr=\count130
-\c@sheetsequence=\count131
-\c@lastsheet=\count132
-\c@lastpage=\count133
-\c@figure=\count134
-\c@lofdepth=\count135
+\c@cp@cntr=\count118
+LaTeX Info: Redefining \: on input line 12052.
+LaTeX Info: Redefining \! on input line 12054.
+\c@ism@mctr=\count119
+\c@xsm@mctr=\count120
+\c@csm@mctr=\count121
+\c@ksm@mctr=\count122
+\c@xksm@mctr=\count123
+\c@cksm@mctr=\count124
+\c@msm@mctr=\count125
+\c@xmsm@mctr=\count126
+\c@cmsm@mctr=\count127
+\c@bsm@mctr=\count128
+\c@workm@mctr=\count129
+\c@sheetsequence=\count130
+\c@lastsheet=\count131
+\c@lastpage=\count132
+\c@figure=\count133
+\c@lofdepth=\count134
 \cftbeforefigureskip=\skip179
 \cftfigureindent=\skip180
 \cftfigurenumwidth=\skip181
-\c@table=\count136
-\c@lotdepth=\count137
+\c@table=\count135
+\c@lotdepth=\count136
 \cftbeforetableskip=\skip182
 \cfttableindent=\skip183
 \cfttablenumwidth=\skip184
@@ -359,7 +355,7 @@ Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 (/usr/share/texmf-dist/tex/latex/latexconfig/graphics.cfg
 File: graphics.cfg 2010/04/23 v1.9 graphics configuration of TeX Live
 )
-Package graphics Info: Driver file: pdftex.def on input line 91.
+Package graphics Info: Driver file: pdftex.def on input line 94.
 
 (/usr/share/texmf-dist/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
@@ -370,32 +366,32 @@ Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 (/usr/share/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count138
+\Gread@gobject=\count137
 ))
 \Gin@req@height=\dimen147
 \Gin@req@width=\dimen148
 )
 (/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2013/08/25 v0.4v Insert pages of external PDF documents (AM)
+Package: pdfpages 2015/09/18 v0.5d Insert pages of external PDF documents (AM)
 
 (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texmf-dist/tex/latex/tools/calc.sty
 Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count139
-\calc@Bcount=\count140
+\calc@Acount=\count138
+\calc@Bcount=\count139
 \calc@Adimen=\dimen149
 \calc@Bdimen=\dimen150
 \calc@Askip=\skip185
 \calc@Bskip=\skip186
-LaTeX Info: Redefining \setlength on input line 75.
-LaTeX Info: Redefining \addtolength on input line 76.
-\calc@Ccount=\count141
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count140
 \calc@Cskip=\skip187
 )
 (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2013/10/06 v2.0d eso-pic (RN)
+Package: eso-pic 2015/07/21 v2.0g eso-pic (RN)
 
 (/usr/share/texmf-dist/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
@@ -417,12 +413,15 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 ))
+\AM@pagewidth=\dimen151
+\AM@pageheight=\dimen152
+
 (/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2013/08/25 v0.4v Pdfpages driver for pdfTeX (AM)
+File: pppdftex.def 2015/09/18 v0.5d Pdfpages driver for pdfTeX (AM)
 )
 \AM@pagebox=\box29
 \AM@toc@title=\toks23
-\c@AM@survey=\count142
+\c@AM@survey=\count141
 \AM@templatesizebox=\box30
 )
 (/usr/share/texmf-dist/tex/latex/oberdiek/zref-abspage.sty
@@ -459,14 +458,14 @@ Package zref Info: New property list: main on input line 759.
 Package zref Info: New property: default on input line 760.
 Package zref Info: New property: page on input line 761.
 )
-\c@abspage=\count143
+\c@abspage=\count142
 Package zref Info: New property: abspage on input line 62.
 )
 (/usr/share/texmf-dist/tex/latex/oberdiek/atveryend.sty
 Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
 Package atveryend Info: \enddocument detected (standard20110627).
 )
-\c@abschap=\count144
+\c@abschap=\count143
  (./songbook.aux)
 \openout1 = `songbook.aux'.
 
@@ -485,16 +484,16 @@ LaTeX Font Info:    ... okay on input line 64.
 
 (/usr/share/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count145
-\scratchdimen=\dimen151
+\scratchcounter=\count144
+\scratchdimen=\dimen153
 \scratchbox=\box31
-\nofMPsegments=\count146
-\nofMParguments=\count147
+\nofMPsegments=\count145
+\nofMParguments=\count146
 \everyMPshowfont=\toks24
-\MPscratchCnt=\count148
-\MPscratchDim=\dimen152
-\MPnumerator=\count149
-\makeMPintoPDFobject=\count150
+\MPscratchCnt=\count147
+\MPscratchDim=\dimen154
+\MPnumerator=\count148
+\makeMPintoPDFobject=\count149
 \everyMPtoPDFconversion=\toks25
 ) (/usr/share/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -515,12 +514,20 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box32
- (./songbook.toc
+
+(/usr/share/texmf-dist/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2008/08/11 v0.10 Display of landscape pages in PDF (HO)
+
+(/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 80.
+) (./songbook.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 1.
-[1
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Overfull \hbox (1.74986pt too wide) detected at line 47
@@ -1689,7 +1696,7 @@ Overfull \hbox (2.2499pt too wide) detected at line 190
 
 
 Overfull \hbox (1.74986pt too wide) detected at line 190
- \OT1/cmr/bx/n/10 401
+ \OT1/cmr/bx/n/10 402
  []
 
 
@@ -1699,7 +1706,7 @@ Overfull \hbox (2.2499pt too wide) detected at line 191
 
 
 Overfull \hbox (1.74986pt too wide) detected at line 191
- \OT1/cmr/bx/n/10 402
+ \OT1/cmr/bx/n/10 404
  []
 
 
@@ -1709,7 +1716,7 @@ Overfull \hbox (2.2499pt too wide) detected at line 192
 
 
 Overfull \hbox (1.74986pt too wide) detected at line 192
- \OT1/cmr/bx/n/10 403
+ \OT1/cmr/bx/n/10 408
  []
 
 
@@ -1719,7 +1726,7 @@ Overfull \hbox (2.2499pt too wide) detected at line 193
 
 
 Overfull \hbox (1.74986pt too wide) detected at line 193
- \OT1/cmr/bx/n/10 404
+ \OT1/cmr/bx/n/10 412
  []
 
 
@@ -1729,7 +1736,7 @@ Overfull \hbox (2.2499pt too wide) detected at line 194
 
 
 Overfull \hbox (1.74986pt too wide) detected at line 194
- \OT1/cmr/bx/n/10 406
+ \OT1/cmr/bx/n/10 416
  []
 
 
@@ -1739,10 +1746,70 @@ Overfull \hbox (2.2499pt too wide) detected at line 195
 
 
 Overfull \hbox (1.74986pt too wide) detected at line 195
- \OT1/cmr/bx/n/10 412
+ \OT1/cmr/bx/n/10 418
  []
 
-) [8]
+
+Overfull \hbox (2.2499pt too wide) detected at line 196
+\OT1/cmr/bx/n/10 195 
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 196
+ \OT1/cmr/bx/n/10 420
+ []
+
+
+Overfull \hbox (2.2499pt too wide) detected at line 197
+\OT1/cmr/bx/n/10 196 
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 197
+ \OT1/cmr/bx/n/10 422
+ []
+
+
+Overfull \hbox (2.2499pt too wide) detected at line 198
+\OT1/cmr/bx/n/10 197 
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 198
+ \OT1/cmr/bx/n/10 424
+ []
+
+
+Overfull \hbox (2.2499pt too wide) detected at line 199
+\OT1/cmr/bx/n/10 198 
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 199
+ \OT1/cmr/bx/n/10 426
+ []
+
+
+Overfull \hbox (2.2499pt too wide) detected at line 200
+\OT1/cmr/bx/n/10 199 
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 200
+ \OT1/cmr/bx/n/10 428
+ []
+
+[8]
+Overfull \hbox (2.2499pt too wide) detected at line 201
+\OT1/cmr/bx/n/10 200 
+ []
+
+
+Overfull \hbox (1.74986pt too wide) detected at line 201
+ \OT1/cmr/bx/n/10 434
+ []
+
+) [9]
 Overfull \hbox (5.49698pt too wide) in paragraph at lines 85--85
 []        \OT1/cmtt/m/n/10 To find the hand of Franklin reaching for the Beaufo
 rt Sea[] 
@@ -3495,7 +3562,7 @@ ntion us[]
 
 
 ] [242]
-<here_in_california.pdf, id=803, 614.295pt x 794.97pt>
+<here_in_california.pdf, id=807, 614.295pt x 794.97pt>
 File: here_in_california.pdf Graphic file (type pdf)
 
 <use here_in_california.pdf>
@@ -3506,7 +3573,7 @@ File: here_in_california.pdf Graphic file (type pdf)
 Package pdftex.def Info: here_in_california.pdf used on input line 8414.
 (pdftex.def)             Requested size: 614.29349pt x 794.96806pt.
 
-<here_in_california.pdf, id=806, page=1, 614.295pt x 794.97pt>
+<here_in_california.pdf, id=810, page=1, 614.295pt x 794.97pt>
 File: here_in_california.pdf Graphic file (type pdf)
 
 <use here_in_california.pdf, page 1>
@@ -4516,14 +4583,213 @@ Overfull \hbox (110.49606pt too wide) in paragraph at lines 13881--13881
 [397] [398
 
 
-] [399] [400] (./banjo_chords.tex
-<chords/Abbjo1.png, id=1318, 2384.91pt x 592.2125pt>
+] [399] [400] [401
+
+
+] [402] [403]
+Missing character: There is no â in font cmtt10!
+Missing character: There is no € in font cmtt10!
+Missing character: There is no ” in font cmtt10!
+ [404
+
+
+] [405]
+Missing character: There is no â in font cmtt10!
+Missing character: There is no € in font cmtt10!
+Missing character: There is no ” in font cmtt10!
+ [406] [407
+
+
+] [408]
+[409] [410] [411] [412
+
+
+] [413] [414] [415
+
+
+] [416] [417]
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 14581--14581
+[]     \OT1/cmtt/m/n/10 D                     Am            G                  
+     D  Dsus2 D[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 14582--14582
+[]\OT1/cmtt/m/n/10 Been walking my mind to an easy time, my back turned towards
+ the sun[] 
+ []
+
+
+Overfull \hbox (105.24611pt too wide) in paragraph at lines 14585--14585
+[]              \OT1/cmtt/m/n/10 D                    Am                G      
+               D  Dsus2 D[] 
+ []
+
+
+Overfull \hbox (68.49643pt too wide) in paragraph at lines 14586--14586
+[]\OT1/cmtt/m/n/10 Well, there's hours of time on the telephone line to talk ab
+out things to come[] 
+ []
+
+[418
+
+
+]
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 14596--14596
+[]      \OT1/cmtt/m/n/10 C                       Am                            
+D   D7[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 14604--14604
+[]\OT1/cmtt/m/n/10 Thought I'd see you, thought I'd see you fire and rain, now 
+. . .[] 
+ []
+
+[419]
+Overfull \hbox (63.24648pt too wide) in paragraph at lines 14612--14612
+[]                \OT1/cmtt/m/n/10 Am                        D                 
+   Em   D C B A G[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 14613--14613
+[]                \OT1/cmtt/m/n/10 You see the number on the matchbook is old a
+nd faded[] 
+ []
+
+
+Overfull \hbox (31.74675pt too wide) in paragraph at lines 14614--14614
+[]                \OT1/cmtt/m/n/10 G                 Bm         C    B   Am7 G 
+    C B A G[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 14615--14615
+[]                \OT1/cmtt/m/n/10 She's living in L.A. with my best old ex-fri
+end Ray[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 14616--14616
+[]                \OT1/cmtt/m/n/10 Am                 D7                      E
+m    D C B A G[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 14625--14625
+[]           \OT1/cmtt/m/n/10 |       C D   Em           Bm                    
+   Am[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 14626--14626
+[]           \OT1/cmtt/m/n/10 |    So I can call just to tell her I'm fine and 
+to show[] 
+ []
+
+
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 14627--14627
+[]           \OT1/cmtt/m/n/10 |    D                 C                         
+    G[] 
+ []
+
+
+Overfull \hbox (15.99689pt too wide) in paragraph at lines 14628--14628
+[]           \OT1/cmtt/m/n/10 |    I've overcome the blow, I've learned to take
+ it well[] 
+ []
+
+
+Overfull \hbox (31.74675pt too wide) in paragraph at lines 14631--14631
+[]           \OT1/cmtt/m/n/10 |                        D7        C             
+          G[] 
+ []
+
+
+Overfull \hbox (42.24666pt too wide) in paragraph at lines 14632--14632
+[]           \OT1/cmtt/m/n/10 |    That it just wasn't real, but that's not the
+ way it feels[] 
+ []
+
+
+Overfull \hbox (5.49698pt too wide) in paragraph at lines 14634--14634
+[]                \OT1/cmtt/m/n/10 G   Bm                C   (B) Am7   G    C (
+B A G)[] 
+ []
+
+
+Overfull \hbox (68.49643pt too wide) in paragraph at lines 14636--14636
+[]                \OT1/cmtt/m/n/10 Am                     D7                   
+Em     (D C B A G)[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 14637--14637
+[]                \OT1/cmtt/m/n/10 Cause I can't read the number that you just 
+gave me[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 14638--14638
+[]                \OT1/cmtt/m/n/10 G                       Bm               C (
+B    A     G )[] 
+ []
+
+
+Overfull \hbox (52.74657pt too wide) in paragraph at lines 14639--14639
+[]                \OT1/cmtt/m/n/10 There's something in my eye, you know it hap
+pens every time[] 
+ []
+
+
+Overfull \hbox (68.49643pt too wide) in paragraph at lines 14640--14640
+[]                \OT1/cmtt/m/n/10 Am                D7                        
+Em     (D C B A G)[] 
+ []
+
+
+Overfull \hbox (10.74693pt too wide) in paragraph at lines 14641--14641
+[]                \OT1/cmtt/m/n/10 I think about the love that I thought would 
+save me[] 
+ []
+
+
+Overfull \hbox (47.49661pt too wide) in paragraph at lines 14646--14646
+[]                \OT1/cmtt/m/n/10 Am                   D7                 Em  
+   (D C B A G)[] 
+ []
+
+[420
+
+
+] [421]
+Overfull \hbox (0.24702pt too wide) in paragraph at lines 14674--14674
+[]\OT1/cmtt/m/n/10 Gmaj7                C               Bm                   F#
+m  D7[] 
+ []
+
+[422
+
+] [423
+
+
+] [424] [425] [426
+
+] [427
+
+
+] [428] [429
+
+
+] (./banjo_chords.tex
+<chords/Abbjo1.png, id=1413, 2384.91pt x 592.2125pt>
 File: chords/Abbjo1.png Graphic file (type png)
  <use chords/Abbjo1.png>
 Package pdftex.def Info: chords/Abbjo1.png used on input line 3.
 (pdftex.def)             Requested size: 357.72107pt x 88.82803pt.
 
-<chords/Abbjo2.png, id=1319, 2409.0pt x 592.2125pt>
+<chords/Abbjo2.png, id=1414, 2409.0pt x 592.2125pt>
 File: chords/Abbjo2.png Graphic file (type png)
  <use chords/Abbjo2.png>
 Package pdftex.def Info: chords/Abbjo2.png used on input line 4.
@@ -4538,13 +4804,13 @@ Overfull \hbox (20.33441pt too wide) in paragraph at lines 3--5
 [] 
  []
 
-<chords/Abjo1.png, id=1320, 2493.315pt x 628.3475pt>
+<chords/Abjo1.png, id=1415, 2493.315pt x 628.3475pt>
 File: chords/Abjo1.png Graphic file (type png)
  <use chords/Abjo1.png>
 Package pdftex.def Info: chords/Abjo1.png used on input line 6.
 (pdftex.def)             Requested size: 373.98111pt x 94.24805pt.
 
-<chords/Abjo2.png, id=1321, 2493.315pt x 628.3475pt>
+<chords/Abjo2.png, id=1416, 2493.315pt x 628.3475pt>
 File: chords/Abjo2.png Graphic file (type png)
  <use chords/Abjo2.png>
 Package pdftex.def Info: chords/Abjo2.png used on input line 7.
@@ -4559,13 +4825,13 @@ Overfull \hbox (32.98111pt too wide) in paragraph at lines 6--8
 [] 
  []
 
-<chords/Bbbjo1.png, id=1322, 2493.315pt x 664.4825pt>
+<chords/Bbbjo1.png, id=1417, 2493.315pt x 664.4825pt>
 File: chords/Bbbjo1.png Graphic file (type png)
  <use chords/Bbbjo1.png>
 Package pdftex.def Info: chords/Bbbjo1.png used on input line 9.
 (pdftex.def)             Requested size: 373.98111pt x 99.66806pt.
 
-<chords/Bbbjo2.png, id=1323, 2493.315pt x 664.4825pt>
+<chords/Bbbjo2.png, id=1418, 2493.315pt x 664.4825pt>
 File: chords/Bbbjo2.png Graphic file (type png)
  <use chords/Bbbjo2.png>
 Package pdftex.def Info: chords/Bbbjo2.png used on input line 10.
@@ -4583,18 +4849,18 @@ Overfull \hbox (32.98111pt too wide) in paragraph at lines 9--11
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [401
-
- <./chords/Abbjo1.png> <./chords/Abbjo2.png> <./chords/Abjo1.png> <./chords/Abj
-o2.png>] <chords/Bbjo1.png, id=1332, 2601.72pt x 592.2125pt>
+ [430 <./chords/Abbjo1.png> <./chords/Abbjo2.png> <./chords/Abjo1.png> <./chord
+s/Abjo2.png> <./chords/Bbbjo1.png>] <chords/Bbjo1.png, id=1428, 2601.72pt x 592
+.2125pt>
 File: chords/Bbjo1.png Graphic file (type png)
- <use chords/Bbjo1.png>
+
+<use chords/Bbjo1.png>
 Package pdftex.def Info: chords/Bbjo1.png used on input line 12.
 (pdftex.def)             Requested size: 390.24117pt x 88.82803pt.
-
-<chords/Bbjo2.png, id=1333, 2493.315pt x 592.2125pt>
+ <chords/Bbjo2.png, id=1429, 2493.315pt x 592.2125pt>
 File: chords/Bbjo2.png Graphic file (type png)
- <use chords/Bbjo2.png>
+
+<use chords/Bbjo2.png>
 Package pdftex.def Info: chords/Bbjo2.png used on input line 13.
 (pdftex.def)             Requested size: 373.98111pt x 88.82803pt.
 
@@ -4607,13 +4873,13 @@ Overfull \hbox (32.98111pt too wide) in paragraph at lines 12--14
 [] 
  []
 
-<chords/Cbjo1.png, id=1334, 2493.315pt x 592.2125pt>
+<chords/Cbjo1.png, id=1430, 2493.315pt x 592.2125pt>
 File: chords/Cbjo1.png Graphic file (type png)
  <use chords/Cbjo1.png>
 Package pdftex.def Info: chords/Cbjo1.png used on input line 15.
 (pdftex.def)             Requested size: 373.98111pt x 88.82803pt.
 
-<chords/Cbjo2.png, id=1335, 2493.315pt x 592.2125pt>
+<chords/Cbjo2.png, id=1431, 2493.315pt x 592.2125pt>
 File: chords/Cbjo2.png Graphic file (type png)
  <use chords/Cbjo2.png>
 Package pdftex.def Info: chords/Cbjo2.png used on input line 16.
@@ -4628,20 +4894,15 @@ Overfull \hbox (32.98111pt too wide) in paragraph at lines 15--17
 [] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [402 <./chords/Bbbjo1.png> <./chords/Bbbjo2.png> <./chords/Bbjo1.png> <./chord
-s/Bbjo2.png>] <chords/Csbjo1.png, id=1343, 2384.91pt x 628.3475pt>
+<chords/Csbjo1.png, id=1432, 2384.91pt x 628.3475pt>
 File: chords/Csbjo1.png Graphic file (type png)
-
-<use chords/Csbjo1.png>
+ <use chords/Csbjo1.png>
 Package pdftex.def Info: chords/Csbjo1.png used on input line 18.
 (pdftex.def)             Requested size: 357.72107pt x 94.24805pt.
- <chords/Csbjo2.png, id=1344, 2384.91pt x 628.3475pt>
-File: chords/Csbjo2.png Graphic file (type png)
 
-<use chords/Csbjo2.png>
+<chords/Csbjo2.png, id=1433, 2384.91pt x 628.3475pt>
+File: chords/Csbjo2.png Graphic file (type png)
+ <use chords/Csbjo2.png>
 Package pdftex.def Info: chords/Csbjo2.png used on input line 19.
 (pdftex.def)             Requested size: 357.72107pt x 94.24805pt.
 
@@ -4654,15 +4915,21 @@ Overfull \hbox (16.72107pt too wide) in paragraph at lines 18--20
 [] 
  []
 
-<chords/Dbjo1.png, id=1345, 2384.91pt x 556.0775pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [431 <./chords/Bbbjo2.png> <./chords/Bbjo1.png> <./chords/Bbjo2.png> <./chords
+/Cbjo1.png> <./chords/Cbjo2.png>] <chords/Dbjo1.png, id=1442, 2384.91pt x 556.0
+775pt>
 File: chords/Dbjo1.png Graphic file (type png)
- <use chords/Dbjo1.png>
+
+<use chords/Dbjo1.png>
 Package pdftex.def Info: chords/Dbjo1.png used on input line 21.
 (pdftex.def)             Requested size: 357.72107pt x 83.40802pt.
-
-<chords/Dbjo2.png, id=1346, 2384.91pt x 556.0775pt>
+ <chords/Dbjo2.png, id=1443, 2384.91pt x 556.0775pt>
 File: chords/Dbjo2.png Graphic file (type png)
- <use chords/Dbjo2.png>
+
+<use chords/Dbjo2.png>
 Package pdftex.def Info: chords/Dbjo2.png used on input line 22.
 (pdftex.def)             Requested size: 357.72107pt x 83.40802pt.
 
@@ -4675,13 +4942,13 @@ Overfull \hbox (16.72107pt too wide) in paragraph at lines 21--23
 [] 
  []
 
-<chords/Ebbjo1.png, id=1347, 2529.45pt x 556.0775pt>
+<chords/Ebbjo1.png, id=1444, 2529.45pt x 556.0775pt>
 File: chords/Ebbjo1.png Graphic file (type png)
  <use chords/Ebbjo1.png>
 Package pdftex.def Info: chords/Ebbjo1.png used on input line 24.
 (pdftex.def)             Requested size: 379.40114pt x 83.40802pt.
 
-<chords/Ebbjo2.png, id=1348, 2384.91pt x 628.3475pt>
+<chords/Ebbjo2.png, id=1445, 2384.91pt x 628.3475pt>
 File: chords/Ebbjo2.png Graphic file (type png)
  <use chords/Ebbjo2.png>
 Package pdftex.def Info: chords/Ebbjo2.png used on input line 25.
@@ -4696,18 +4963,13 @@ Overfull \hbox (16.72107pt too wide) in paragraph at lines 24--26
 [] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [403 <./chords/Cbjo1.png> <./chords/Cbjo2.png> <./chords/Csbjo1.png> <./chords
-/Csbjo2.png> <./chords/Dbjo1.png> <./chords/Dbjo2.png>]
-<chords/Ebjo1.png, id=1358, 2384.91pt x 556.0775pt>
+<chords/Ebjo1.png, id=1446, 2384.91pt x 556.0775pt>
 File: chords/Ebjo1.png Graphic file (type png)
  <use chords/Ebjo1.png>
 Package pdftex.def Info: chords/Ebjo1.png used on input line 27.
 (pdftex.def)             Requested size: 357.72107pt x 83.40802pt.
 
-<chords/Ebjo2.png, id=1359, 2384.91pt x 592.2125pt>
+<chords/Ebjo2.png, id=1447, 2384.91pt x 592.2125pt>
 File: chords/Ebjo2.png Graphic file (type png)
  <use chords/Ebjo2.png>
 Package pdftex.def Info: chords/Ebjo2.png used on input line 28.
@@ -4722,13 +4984,18 @@ Overfull \hbox (16.72107pt too wide) in paragraph at lines 27--29
 [] 
  []
 
-<chords/Fbjo1.png, id=1360, 2384.91pt x 592.2125pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [432 <./chords/Csbjo1.png> <./chords/Csbjo2.png> <./chords/Dbjo1.png> <./chord
+s/Dbjo2.png> <./chords/Ebbjo1.png> <./chords/Ebbjo2.png>]
+<chords/Fbjo1.png, id=1457, 2384.91pt x 592.2125pt>
 File: chords/Fbjo1.png Graphic file (type png)
  <use chords/Fbjo1.png>
 Package pdftex.def Info: chords/Fbjo1.png used on input line 30.
 (pdftex.def)             Requested size: 357.72107pt x 88.82803pt.
 
-<chords/Fbjo2.png, id=1361, 2409.0pt x 592.2125pt>
+<chords/Fbjo2.png, id=1458, 2409.0pt x 592.2125pt>
 File: chords/Fbjo2.png Graphic file (type png)
  <use chords/Fbjo2.png>
 Package pdftex.def Info: chords/Fbjo2.png used on input line 31.
@@ -4743,13 +5010,13 @@ Overfull \hbox (20.33441pt too wide) in paragraph at lines 30--32
 [] 
  []
 
-<chords/Fsbjo1.png, id=1362, 2384.91pt x 592.2125pt>
+<chords/Fsbjo1.png, id=1459, 2384.91pt x 592.2125pt>
 File: chords/Fsbjo1.png Graphic file (type png)
  <use chords/Fsbjo1.png>
 Package pdftex.def Info: chords/Fsbjo1.png used on input line 33.
 (pdftex.def)             Requested size: 357.72107pt x 88.82803pt.
 
-<chords/Fsbjo2.png, id=1363, 2409.0pt x 592.2125pt>
+<chords/Fsbjo2.png, id=1460, 2409.0pt x 592.2125pt>
 File: chords/Fsbjo2.png Graphic file (type png)
  <use chords/Fsbjo2.png>
 Package pdftex.def Info: chords/Fsbjo2.png used on input line 34.
@@ -4764,18 +5031,13 @@ Overfull \hbox (20.33441pt too wide) in paragraph at lines 33--35
 [] 
  []
 
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [404 <./chords/Ebbjo1.png> <./chords/Ebbjo2.png> <./chords/Ebjo1.png> <./chord
-s/Ebjo2.png> <./chords/Fbjo1.png> <./chords/Fbjo2.png>]
-<chords/Gbjo1.png, id=1373, 2384.91pt x 628.3475pt>
+<chords/Gbjo1.png, id=1461, 2384.91pt x 628.3475pt>
 File: chords/Gbjo1.png Graphic file (type png)
  <use chords/Gbjo1.png>
 Package pdftex.def Info: chords/Gbjo1.png used on input line 36.
 (pdftex.def)             Requested size: 357.72107pt x 94.24805pt.
 
-<chords/Gbjo2.png, id=1374, 2409.0pt x 628.3475pt>
+<chords/Gbjo2.png, id=1462, 2409.0pt x 628.3475pt>
 File: chords/Gbjo2.png Graphic file (type png)
  <use chords/Gbjo2.png>
 Package pdftex.def Info: chords/Gbjo2.png used on input line 37.
@@ -4790,15 +5052,31 @@ Overfull \hbox (20.33441pt too wide) in paragraph at lines 36--38
 [] 
  []
 
-) [405 <./chords/Fsbjo1.png> <./chords/Fsbjo2.png> <./chords/Gbjo1.png> <./chor
-ds/Gbjo2.png>] (./guitar_chords.tex
-<chords/Abgtr1.png, id=1382, 2457.18pt x 592.2125pt>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [433 <./chords/Ebjo1.png> <./chords/Ebjo2.png> <./chords/Fbjo1.png> <./chords/
+Fbjo2.png> <./chords/Fsbjo1.png> <./chords/Fsbjo2.png>]) [434 <./chords/Gbjo1.p
+ng> <./chords/Gbjo2.png>]
+
+LaTeX Warning: Reference `abschap.201.beg' on page 435 undefined on input line 
+14814.
+
+
+LaTeX Warning: Reference `abschap.201.end' on page 435 undefined on input line 
+14814.
+
+[435
+
+
+] (./guitar_chords.tex
+<chords/Abgtr1.png, id=1480, 2457.18pt x 592.2125pt>
 File: chords/Abgtr1.png Graphic file (type png)
  <use chords/Abgtr1.png>
 Package pdftex.def Info: chords/Abgtr1.png used on input line 3.
 (pdftex.def)             Requested size: 368.5611pt x 88.82803pt.
 
-<chords/Abgtr2.png, id=1383, 2421.045pt x 592.2125pt>
+<chords/Abgtr2.png, id=1481, 2421.045pt x 592.2125pt>
 File: chords/Abgtr2.png Graphic file (type png)
  <use chords/Abgtr2.png>
 Package pdftex.def Info: chords/Abgtr2.png used on input line 4.
@@ -4813,13 +5091,13 @@ Overfull \hbox (22.14108pt too wide) in paragraph at lines 3--5
 [] 
  []
 
-<chords/Agtr1.png, id=1384, 2457.18pt x 556.0775pt>
+<chords/Agtr1.png, id=1482, 2457.18pt x 556.0775pt>
 File: chords/Agtr1.png Graphic file (type png)
  <use chords/Agtr1.png>
 Package pdftex.def Info: chords/Agtr1.png used on input line 6.
 (pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
 
-<chords/Agtr2.png, id=1385, 2457.18pt x 556.0775pt>
+<chords/Agtr2.png, id=1483, 2457.18pt x 556.0775pt>
 File: chords/Agtr2.png Graphic file (type png)
  <use chords/Agtr2.png>
 Package pdftex.def Info: chords/Agtr2.png used on input line 7.
@@ -4834,13 +5112,13 @@ Overfull \hbox (27.5611pt too wide) in paragraph at lines 6--8
 [] 
  []
 
-<chords/Bbgtr1.png, id=1386, 2457.18pt x 556.0775pt>
+<chords/Bbgtr1.png, id=1484, 2457.18pt x 556.0775pt>
 File: chords/Bbgtr1.png Graphic file (type png)
  <use chords/Bbgtr1.png>
 Package pdftex.def Info: chords/Bbgtr1.png used on input line 9.
 (pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
 
-<chords/Bbgtr2.png, id=1387, 2457.18pt x 556.0775pt>
+<chords/Bbgtr2.png, id=1485, 2457.18pt x 556.0775pt>
 File: chords/Bbgtr2.png Graphic file (type png)
  <use chords/Bbgtr2.png>
 Package pdftex.def Info: chords/Bbgtr2.png used on input line 10.
@@ -4855,13 +5133,13 @@ Overfull \hbox (27.5611pt too wide) in paragraph at lines 9--11
 [] 
  []
 
-<chords/Bgtr1.png, id=1388, 2457.18pt x 556.0775pt>
+<chords/Bgtr1.png, id=1486, 2457.18pt x 556.0775pt>
 File: chords/Bgtr1.png Graphic file (type png)
  <use chords/Bgtr1.png>
 Package pdftex.def Info: chords/Bgtr1.png used on input line 12.
 (pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
 
-<chords/Bgtr2.png, id=1389, 2457.18pt x 556.0775pt>
+<chords/Bgtr2.png, id=1487, 2457.18pt x 556.0775pt>
 File: chords/Bgtr2.png Graphic file (type png)
  <use chords/Bgtr2.png>
 Package pdftex.def Info: chords/Bgtr2.png used on input line 13.
@@ -4879,17 +5157,15 @@ Overfull \hbox (27.5611pt too wide) in paragraph at lines 12--14
 
 Underfull \vbox (badness 3646) has occurred while \output is active []
 
- [406
-
- <./chords/Abgtr1.png> <./chords/Abgtr2.png> <./chords/Agtr1.png> <./chords/Agt
-r2.png> <./chords/Bbgtr1.png> <./chords/Bbgtr2.png>]
-<chords/Cgtr1.png, id=1399, 2457.18pt x 556.0775pt>
+ [436 <./chords/Abgtr1.png> <./chords/Abgtr2.png> <./chords/Agtr1.png> <./chord
+s/Agtr2.png> <./chords/Bbgtr1.png> <./chords/Bbgtr2.png>]
+<chords/Cgtr1.png, id=1498, 2457.18pt x 556.0775pt>
 File: chords/Cgtr1.png Graphic file (type png)
  <use chords/Cgtr1.png>
 Package pdftex.def Info: chords/Cgtr1.png used on input line 15.
 (pdftex.def)             Requested size: 368.5611pt x 83.40802pt.
 
-<chords/Cgtr2.png, id=1400, 2457.18pt x 556.0775pt>
+<chords/Cgtr2.png, id=1499, 2457.18pt x 556.0775pt>
 File: chords/Cgtr2.png Graphic file (type png)
  <use chords/Cgtr2.png>
 Package pdftex.def Info: chords/Cgtr2.png used on input line 16.
@@ -4904,13 +5180,13 @@ Overfull \hbox (27.5611pt too wide) in paragraph at lines 15--17
 [] 
  []
 
-<chords/Csgtr1.png, id=1401, 2421.045pt x 592.2125pt>
+<chords/Csgtr1.png, id=1500, 2421.045pt x 592.2125pt>
 File: chords/Csgtr1.png Graphic file (type png)
  <use chords/Csgtr1.png>
 Package pdftex.def Info: chords/Csgtr1.png used on input line 18.
 (pdftex.def)             Requested size: 363.14108pt x 88.82803pt.
 
-<chords/Csgtr2.png, id=1402, 2425.06pt x 592.2125pt>
+<chords/Csgtr2.png, id=1501, 2425.06pt x 592.2125pt>
 File: chords/Csgtr2.png Graphic file (type png)
  <use chords/Csgtr2.png>
 Package pdftex.def Info: chords/Csgtr2.png used on input line 19.
@@ -4925,13 +5201,13 @@ Overfull \hbox (22.7433pt too wide) in paragraph at lines 18--20
 [] 
  []
 
-<chords/Dgtr1.png, id=1403, 2421.045pt x 556.0775pt>
+<chords/Dgtr1.png, id=1502, 2421.045pt x 556.0775pt>
 File: chords/Dgtr1.png Graphic file (type png)
  <use chords/Dgtr1.png>
 Package pdftex.def Info: chords/Dgtr1.png used on input line 21.
 (pdftex.def)             Requested size: 363.14108pt x 83.40802pt.
 
-<chords/Dgtr2.png, id=1404, 2425.06pt x 556.0775pt>
+<chords/Dgtr2.png, id=1503, 2425.06pt x 556.0775pt>
 File: chords/Dgtr2.png Graphic file (type png)
  <use chords/Dgtr2.png>
 Package pdftex.def Info: chords/Dgtr2.png used on input line 22.
@@ -4949,15 +5225,15 @@ Overfull \hbox (22.7433pt too wide) in paragraph at lines 21--23
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [407 <./chords/Bgtr1.png> <./chords/Bgtr2.png> <./chords/Cgtr1.png> <./chords/
+ [437 <./chords/Bgtr1.png> <./chords/Bgtr2.png> <./chords/Cgtr1.png> <./chords/
 Cgtr2.png> <./chords/Csgtr1.png> <./chords/Csgtr2.png>]
-<chords/Ebgtr1.png, id=1415, 2421.045pt x 592.2125pt>
+<chords/Ebgtr1.png, id=1513, 2421.045pt x 592.2125pt>
 File: chords/Ebgtr1.png Graphic file (type png)
  <use chords/Ebgtr1.png>
 Package pdftex.def Info: chords/Ebgtr1.png used on input line 24.
 (pdftex.def)             Requested size: 363.14108pt x 88.82803pt.
 
-<chords/Ebgtr2.png, id=1416, 2425.06pt x 628.3475pt>
+<chords/Ebgtr2.png, id=1514, 2425.06pt x 628.3475pt>
 File: chords/Ebgtr2.png Graphic file (type png)
  <use chords/Ebgtr2.png>
 Package pdftex.def Info: chords/Ebgtr2.png used on input line 25.
@@ -4972,13 +5248,13 @@ Overfull \hbox (22.7433pt too wide) in paragraph at lines 24--26
 [] 
  []
 
-<chords/Egtr1.png, id=1417, 2421.045pt x 556.0775pt>
+<chords/Egtr1.png, id=1515, 2421.045pt x 556.0775pt>
 File: chords/Egtr1.png Graphic file (type png)
  <use chords/Egtr1.png>
 Package pdftex.def Info: chords/Egtr1.png used on input line 27.
 (pdftex.def)             Requested size: 363.14108pt x 83.40802pt.
 
-<chords/Egtr2.png, id=1418, 2425.06pt x 556.0775pt>
+<chords/Egtr2.png, id=1516, 2425.06pt x 556.0775pt>
 File: chords/Egtr2.png Graphic file (type png)
  <use chords/Egtr2.png>
 Package pdftex.def Info: chords/Egtr2.png used on input line 28.
@@ -4993,13 +5269,13 @@ Overfull \hbox (22.7433pt too wide) in paragraph at lines 27--29
 [] 
  []
 
-<chords/Fgtr1.png, id=1419, 2457.18pt x 592.2125pt>
+<chords/Fgtr1.png, id=1517, 2457.18pt x 592.2125pt>
 File: chords/Fgtr1.png Graphic file (type png)
  <use chords/Fgtr1.png>
 Package pdftex.def Info: chords/Fgtr1.png used on input line 30.
 (pdftex.def)             Requested size: 368.5611pt x 88.82803pt.
 
-<chords/Fgtr2.png, id=1420, 2421.045pt x 592.2125pt>
+<chords/Fgtr2.png, id=1518, 2421.045pt x 592.2125pt>
 File: chords/Fgtr2.png Graphic file (type png)
  <use chords/Fgtr2.png>
 Package pdftex.def Info: chords/Fgtr2.png used on input line 31.
@@ -5017,15 +5293,15 @@ Overfull \hbox (22.14108pt too wide) in paragraph at lines 30--32
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [408 <./chords/Dgtr1.png> <./chords/Dgtr2.png> <./chords/Ebgtr1.png> <./chords
+ [438 <./chords/Dgtr1.png> <./chords/Dgtr2.png> <./chords/Ebgtr1.png> <./chords
 /Ebgtr2.png> <./chords/Egtr1.png> <./chords/Egtr2.png>]
-<chords/Fsgtr1.png, id=1430, 2457.18pt x 592.2125pt>
+<chords/Fsgtr1.png, id=1529, 2457.18pt x 592.2125pt>
 File: chords/Fsgtr1.png Graphic file (type png)
  <use chords/Fsgtr1.png>
 Package pdftex.def Info: chords/Fsgtr1.png used on input line 33.
 (pdftex.def)             Requested size: 368.5611pt x 88.82803pt.
 
-<chords/Fsgtr2.png, id=1431, 2421.045pt x 592.2125pt>
+<chords/Fsgtr2.png, id=1530, 2421.045pt x 592.2125pt>
 File: chords/Fsgtr2.png Graphic file (type png)
  <use chords/Fsgtr2.png>
 Package pdftex.def Info: chords/Fsgtr2.png used on input line 34.
@@ -5040,13 +5316,13 @@ Overfull \hbox (22.14108pt too wide) in paragraph at lines 33--35
 [] 
  []
 
-<chords/Ggtr1.png, id=1432, 2457.18pt x 628.3475pt>
+<chords/Ggtr1.png, id=1531, 2457.18pt x 628.3475pt>
 File: chords/Ggtr1.png Graphic file (type png)
  <use chords/Ggtr1.png>
 Package pdftex.def Info: chords/Ggtr1.png used on input line 36.
 (pdftex.def)             Requested size: 368.5611pt x 94.24805pt.
 
-<chords/Ggtr2.png, id=1433, 2421.045pt x 592.2125pt>
+<chords/Ggtr2.png, id=1532, 2421.045pt x 592.2125pt>
 File: chords/Ggtr2.png Graphic file (type png)
  <use chords/Ggtr2.png>
 Package pdftex.def Info: chords/Ggtr2.png used on input line 37.
@@ -5061,39 +5337,42 @@ Overfull \hbox (22.14108pt too wide) in paragraph at lines 36--38
 [] 
  []
 
-) [409 <./chords/Fgtr1.png> <./chords/Fgtr2.png> <./chords/Fsgtr1.png> <./chord
+) [439 <./chords/Fgtr1.png> <./chords/Fgtr2.png> <./chords/Fsgtr1.png> <./chord
 s/Fsgtr2.png> <./chords/Ggtr1.png> <./chords/Ggtr2.png>]
 \tf@toc=\write4
 \openout4 = `songbook.toc'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 14022.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 14022.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 14816.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 14816.
  (./songbook.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 14022.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 14022.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 14816.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 14816.
+
+
+LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 14022.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 14816.
  ) 
 Here is how much of TeX's memory you used:
- 7180 strings out of 493109
- 102950 string characters out of 6140856
- 200440 words of memory out of 5000000
- 10539 multiletter control sequences out of 15000+600000
+ 7193 strings out of 493054
+ 103464 string characters out of 6140585
+ 205242 words of memory out of 5000000
+ 10608 multiletter control sequences out of 15000+600000
  5672 words of font info for 21 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 42i,18n,45p,241b,425s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 40i,18n,43p,241b,427s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/
 texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-dist/fonts/type1/public
 /amsfonts/cm/cmsl10.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/c
 mtt10.pfb>
-Output written on songbook.pdf (417 pages, 666223 bytes).
+Output written on songbook.pdf (448 pages, 686598 bytes).
 PDF statistics:
- 1476 PDF objects out of 1728 (max. 8388607)
- 942 compressed objects within 10 object streams
+ 1577 PDF objects out of 1728 (max. 8388607)
+ 1011 compressed objects within 11 object streams
  0 named destinations out of 1000 (max. 500000)
  261 words of extra memory for PDF output out of 10000 (max. 10000000)
 
