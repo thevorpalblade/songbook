@@ -197,6 +197,9 @@
 \contentsline {chapter}{\chapternumberline {196}Photographs and Memories}{422}
 \contentsline {chapter}{\chapternumberline {197}I got a Name}{424}
 \contentsline {chapter}{\chapternumberline {198}For The Widows In Paradise; For The Fatherless In Ypsilanti}{426}
-\contentsline {chapter}{\chapternumberline {199}}{428}
-\contentsline {chapter}{\chapternumberline {200}Banjo Chords}{430}
-\contentsline {chapter}{\chapternumberline {201}Guitar Chords}{436}
+\contentsline {chapter}{\chapternumberline {199}The Mistress Witch from McClure}{428}
+\contentsline {chapter}{\chapternumberline {200}The Transfiguration}{432}
+\contentsline {chapter}{\chapternumberline {201}The Predatory Wasp Of The Palisades Is Out To Get Us}{434}
+\contentsline {chapter}{\chapternumberline {202}}{437}
+\contentsline {chapter}{\chapternumberline {203}Banjo Chords}{438}
+\contentsline {chapter}{\chapternumberline {204}Guitar Chords}{444}
